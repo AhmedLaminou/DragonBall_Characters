@@ -1,0 +1,2001 @@
+CharacterID,Name,Race,Saga,BasePowerLevel,MaxPowerLevel,Age,Alignment,HasKiControl
+20001,Majin Buu,Angel,Frieza Saga,422927,10537117,906,Villain,True
+20002,Android 18,Namekian,Saiyan Saga,9694,239566,893,Villain,True
+20003,Jiren,Android,Battle of Gods,343372810,4560873578,31,Neutral,False
+20004,Tien,Human,Battle of Gods,862850891,42167935488,483,Anti-Hero,True
+20005,Goku,Hybrid,Cell Saga,846342,34973414,86,Neutral,True
+20006,Nappa,Saiyan,Saiyan Saga,8338,208585,516,Hero,False
+20007,Bulma,Human,Tournament of Power,449867159,12501131535,285,Neutral,False
+20008,Jiren,Saiyan,Buu Saga,15135538,231584186,776,Villain,False
+20009,Goku,Hybrid,Battle of Gods,894106804,34416329527,899,Villain,True
+20010,Goten,Saiyan,Buu Saga,28841172,1221640633,708,Anti-Hero,False
+20011,Goku,Hybrid,Battle of Gods,135877205,3657869453,968,Anti-Hero,True
+20012,Android 17,Hybrid,Buu Saga,81304809,1154177524,724,Hero,False
+20013,Krillin,Human,Battle of Gods,565729723,24037033250,725,Anti-Hero,True
+20014,Majin Buu,Frieza Race,Cell Saga,451561,19300587,29,Villain,True
+20015,Frieza,Frieza Race,Broly Movie,335857399,6550472012,930,Anti-Hero,True
+20016,Tien,Human,Buu Saga,67392606,2281706408,240,Anti-Hero,True
+20017,Raditz,Hybrid,Saiyan Saga,7597,85898,76,Hero,False
+20018,Piccolo,Namekian,Broly Movie,122284081,5022631783,378,Neutral,False
+20019,Raditz,Saiyan,Battle of Gods,16168002,114843463,775,Villain,False
+20020,Trunks,Saiyan,Broly Movie,377887516,10027719591,658,Hero,True
+20021,Bardock,Hybrid,Buu Saga,49941066,1559312175,24,Neutral,True
+20022,Whis,Android,Frieza Saga,491302,18202080,178,Hero,False
+20023,Majin Buu,Android,Cell Saga,502896,10844575,305,Anti-Hero,False
+20024,Frieza,Frieza Race,Buu Saga,84089191,3172490794,509,Neutral,False
+20025,Android 18,Majin,Cell Saga,559390,27121364,583,Villain,True
+20026,Vegeta,Hybrid,Broly Movie,782058364,5404374463,481,Neutral,False
+20027,Jiren,Angel,Buu Saga,41944432,826566935,459,Neutral,True
+20028,Raditz,Hybrid,Frieza Saga,292098,7447254,958,Anti-Hero,True
+20029,Trunks,Saiyan,Cell Saga,4763897,9001,510,Villain,False
+20030,Yamcha,Human,Tournament of Power,458446867,5449417873,411,Anti-Hero,True
+20031,Bardock,Saiyan,Tournament of Power,652750070,23328102775,179,Villain,False
+20032,Tien,Human,Cell Saga,2783113,56181946,862,Anti-Hero,False
+20033,Android 17,Human,Battle of Gods,72528580,1294374068,182,Anti-Hero,False
+20034,Whis,Human,Battle of Gods,822360708,33070163449,292,Villain,True
+20035,Krillin,Human,Frieza Saga,503948,8827084,515,Neutral,True
+20036,Whis,Human,Saiyan Saga,16887,754729,661,Villain,False
+20037,Majin Buu,Angel,Buu Saga,66970085,2833640560,684,Neutral,True
+20038,Android 18,Angel,Saiyan Saga,7601,158371,104,Villain,True
+20039,Goku,Saiyan,Broly Movie,382070982,9603945067,728,Hero,False
+20040,Krillin,Human,Saiyan Saga,13160,404374,544,Anti-Hero,False
+20041,Bardock,Hybrid,Tournament of Power,957079540,24095071681,770,Villain,False
+20042,Trunks,Hybrid,Broly Movie,967122850,38595665209,723,Hero,False
+20043,Raditz,Hybrid,Saiyan Saga,6357,19178,800,Hero,False
+20044,Tien,Human,Tournament of Power,665628380,25505080783,378,Neutral,True
+20045,Vegeta,Hybrid,Cell Saga,1601897,3409485,725,Neutral,True
+20046,Gohan,Saiyan,Cell Saga,4438477,156981357,250,Neutral,False
+20047,Android 18,Angel,Frieza Saga,151121,9001,524,Villain,True
+20048,Goku,Hybrid,Broly Movie,945880497,44695086750,167,Villain,False
+20049,Beerus,Android,Buu Saga,53807584,1127392528,246,Hero,True
+20050,Goten,Hybrid,Battle of Gods,802082269,8465538537,181,Villain,False
+20051,Goku,Saiyan,Broly Movie,252743995,6389078922,757,Neutral,False
+20052,Bardock,Hybrid,Buu Saga,43471985,532445454,900,Villain,True
+20053,Cell,God,Battle of Gods,61760084,2164608546,139,Hero,True
+20054,Beerus,Human,Cell Saga,3517135,14183068,399,Villain,False
+20055,Whis,Saiyan,Battle of Gods,126180463,940673449,224,Hero,False
+20056,Goten,Saiyan,Battle of Gods,552777522,1553472719,840,Anti-Hero,True
+20057,Cell,Frieza Race,Broly Movie,858963116,5375308953,853,Villain,True
+20058,Tien,Human,Frieza Saga,147405,6002872,231,Neutral,True
+20059,Gohan,Saiyan,Broly Movie,675603822,1555341434,489,Hero,True
+20060,Nappa,Hybrid,Broly Movie,723575300,21284759083,752,Villain,True
+20061,Bardock,Saiyan,Saiyan Saga,2144,67235,132,Anti-Hero,True
+20062,Trunks,Saiyan,Frieza Saga,414491,9001,555,Hero,False
+20063,Beerus,Angel,Saiyan Saga,4739,9001,314,Neutral,True
+20064,Krillin,Human,Battle of Gods,158808986,1237309641,628,Hero,True
+20065,Bardock,Hybrid,Saiyan Saga,14750,305287,325,Anti-Hero,True
+20066,Majin Buu,Angel,Battle of Gods,746077642,25066977226,928,Neutral,True
+20067,Goten,Hybrid,Frieza Saga,431762,2707465,709,Neutral,True
+20068,Tien,Human,Tournament of Power,20118889,97784986,802,Anti-Hero,False
+20069,Broly,Hybrid,Battle of Gods,226623487,4499816382,249,Villain,False
+20070,Gohan,Saiyan,Buu Saga,80476385,344777117,258,Neutral,False
+20071,Raditz,Hybrid,Buu Saga,73503972,3490492220,388,Hero,True
+20072,Frieza,Frieza Race,Broly Movie,570688653,27206634107,341,Villain,False
+20073,Majin Buu,Frieza Race,Buu Saga,74319127,3108057651,913,Anti-Hero,False
+20074,Trunks,Saiyan,Broly Movie,199429073,6750104471,129,Villain,False
+20075,Majin Buu,Angel,Buu Saga,67522395,973748331,303,Neutral,True
+20076,Goten,Saiyan,Tournament of Power,785801157,4711559357,701,Hero,True
+20077,Nappa,Saiyan,Tournament of Power,647227160,1846555133,370,Anti-Hero,True
+20078,Nappa,Saiyan,Saiyan Saga,10086,467041,47,Anti-Hero,False
+20079,Bulma,Human,Battle of Gods,941452815,29228759567,214,Villain,True
+20080,Majin Buu,Namekian,Buu Saga,51310354,1880136299,762,Villain,False
+20081,Bardock,Hybrid,Buu Saga,28807772,939959719,931,Anti-Hero,False
+20082,Frieza,Frieza Race,Cell Saga,123243,5577130,629,Anti-Hero,True
+20083,Piccolo,Namekian,Buu Saga,21623146,467986160,144,Anti-Hero,False
+20084,Vegeta,Saiyan,Frieza Saga,57926,2775914,797,Villain,True
+20085,Beerus,Saiyan,Saiyan Saga,2551,17669,921,Villain,True
+20086,Tien,Human,Tournament of Power,981098479,29948668236,188,Neutral,True
+20087,Jiren,God,Frieza Saga,18896,931252,652,Anti-Hero,True
+20088,Jiren,Angel,Frieza Saga,459744,15739448,60,Villain,False
+20089,Yamcha,Human,Frieza Saga,243713,8340014,428,Anti-Hero,False
+20090,Goku,Saiyan,Battle of Gods,238523304,8161202255,555,Neutral,False
+20091,Bardock,Saiyan,Cell Saga,1575991,68132976,24,Anti-Hero,False
+20092,Broly,Hybrid,Broly Movie,579935316,10515699862,612,Villain,False
+20093,Android 18,Saiyan,Saiyan Saga,3794,12641,762,Anti-Hero,True
+20094,Tien,Human,Buu Saga,61132900,2126148321,853,Villain,False
+20095,Android 17,God,Buu Saga,76886244,3209604668,916,Anti-Hero,False
+20096,Gohan,Saiyan,Broly Movie,226726884,8424775607,647,Hero,False
+20097,Tien,Human,Broly Movie,874022996,28818834190,847,Hero,False
+20098,Jiren,Majin,Battle of Gods,347609037,10346053444,679,Villain,False
+20099,Frieza,Frieza Race,Broly Movie,128377282,4346497302,548,Neutral,False
+20100,Whis,Human,Broly Movie,100006865,2210641019,554,Villain,True
+20101,Nappa,Saiyan,Broly Movie,975157112,16676595101,447,Neutral,True
+20102,Goku,Saiyan,Broly Movie,582924916,24665928616,651,Villain,False
+20103,Android 18,Angel,Buu Saga,78944384,343855959,712,Anti-Hero,False
+20104,Beerus,Hybrid,Buu Saga,32267910,1459685966,859,Anti-Hero,False
+20105,Goten,Hybrid,Saiyan Saga,6691,266633,789,Villain,False
+20106,Nappa,Hybrid,Frieza Saga,305441,1254432,341,Anti-Hero,False
+20107,Whis,God,Broly Movie,939830382,14752515227,271,Neutral,False
+20108,Beerus,Majin,Frieza Saga,436565,20223446,330,Villain,False
+20109,Beerus,Android,Saiyan Saga,11758,373953,994,Hero,True
+20110,Frieza,Frieza Race,Cell Saga,382696,15990063,764,Hero,True
+20111,Goku,Saiyan,Frieza Saga,159489,1066360,224,Hero,False
+20112,Broly,Hybrid,Broly Movie,600682546,5327949373,475,Anti-Hero,False
+20113,Cell,Frieza Race,Saiyan Saga,13482,110201,825,Hero,True
+20114,Goten,Hybrid,Saiyan Saga,16685,677099,203,Hero,True
+20115,Frieza,Frieza Race,Broly Movie,626184671,3304057499,436,Villain,True
+20116,Nappa,Saiyan,Frieza Saga,225118,4354587,234,Hero,False
+20117,Bulma,Human,Cell Saga,2787210,127907854,623,Neutral,False
+20118,Whis,Hybrid,Battle of Gods,92696363,1809012349,684,Villain,False
+20119,Bardock,Hybrid,Tournament of Power,236951428,10538686522,177,Neutral,True
+20120,Nappa,Saiyan,Buu Saga,53689597,1060384165,19,Neutral,False
+20121,Android 18,Hybrid,Battle of Gods,295320597,9001,38,Anti-Hero,True
+20122,Broly,Hybrid,Frieza Saga,250975,9921621,905,Neutral,False
+20123,Raditz,Saiyan,Battle of Gods,884487183,20705040630,948,Anti-Hero,False
+20124,Bardock,Saiyan,Broly Movie,831364510,12585383213,662,Hero,False
+20125,Nappa,Hybrid,Cell Saga,515958,14978622,451,Anti-Hero,False
+20126,Bardock,Saiyan,Buu Saga,51981686,102421297,82,Villain,False
+20127,Goku,Saiyan,Tournament of Power,951834526,2415539724,137,Anti-Hero,False
+20128,Frieza,Frieza Race,Battle of Gods,318225005,2415244892,245,Villain,True
+20129,Nappa,Hybrid,Buu Saga,65573999,3262594227,858,Neutral,False
+20130,Gohan,Saiyan,Cell Saga,2079804,28541436,156,Anti-Hero,False
+20131,Jiren,Saiyan,Broly Movie,389921922,14544411632,135,Neutral,True
+20132,Android 17,Frieza Race,Buu Saga,41859069,1163934898,588,Anti-Hero,False
+20133,Frieza,Frieza Race,Buu Saga,64815874,1964184241,894,Neutral,False
+20134,Cell,Hybrid,Buu Saga,5473270,148564409,298,Hero,False
+20135,Raditz,Hybrid,Battle of Gods,124128172,1014411371,227,Hero,True
+20136,Android 18,Hybrid,Battle of Gods,91028405,4361635210,768,Neutral,False
+20137,Frieza,Frieza Race,Tournament of Power,63030497,1926219591,851,Hero,False
+20138,Broly,Saiyan,Frieza Saga,53341,2233642,34,Villain,False
+20139,Majin Buu,God,Buu Saga,47444194,1403076399,933,Hero,True
+20140,Android 18,Majin,Battle of Gods,762937969,33633129712,57,Anti-Hero,False
+20141,Bardock,Saiyan,Broly Movie,279103572,5465709166,298,Anti-Hero,True
+20142,Vegeta,Hybrid,Broly Movie,855882320,27780204032,362,Anti-Hero,True
+20143,Piccolo,Namekian,Broly Movie,694530069,10231151199,472,Neutral,True
+20144,Majin Buu,Saiyan,Buu Saga,25960721,356299575,514,Hero,True
+20145,Krillin,Human,Tournament of Power,639254952,30029067513,875,Neutral,True
+20146,Vegeta,Hybrid,Saiyan Saga,16128,683764,201,Anti-Hero,True
+20147,Krillin,Human,Frieza Saga,527159,21468926,447,Hero,False
+20148,Raditz,Hybrid,Broly Movie,71058244,1753402112,786,Anti-Hero,False
+20149,Bardock,Hybrid,Frieza Saga,152134,1340968,355,Villain,True
+20150,Android 17,Angel,Buu Saga,86876645,9001,352,Hero,True
+20151,Vegeta,Saiyan,Frieza Saga,484495,3839415,330,Villain,False
+20152,Bulma,Human,Buu Saga,13267944,144090189,794,Villain,True
+20153,Bardock,Hybrid,Battle of Gods,196212181,4468840997,987,Villain,True
+20154,Nappa,Saiyan,Battle of Gods,292617550,9947759538,563,Anti-Hero,True
+20155,Nappa,Saiyan,Tournament of Power,285031033,1286337331,478,Villain,False
+20156,Bulma,Human,Saiyan Saga,14768,58159,763,Hero,False
+20157,Android 18,Namekian,Cell Saga,2066303,69008121,986,Anti-Hero,False
+20158,Krillin,Human,Broly Movie,450472410,16353234260,408,Hero,False
+20159,Trunks,Hybrid,Cell Saga,1907449,38163339,508,Anti-Hero,True
+20160,Android 17,Angel,Frieza Saga,405793,6994653,211,Hero,False
+20161,Majin Buu,Android,Frieza Saga,254001,8232108,364,Hero,True
+20162,Android 18,God,Buu Saga,89756407,535002353,726,Villain,True
+20163,Beerus,Angel,Saiyan Saga,15824,250636,474,Neutral,False
+20164,Gohan,Saiyan,Buu Saga,60216237,107333508,552,Neutral,False
+20165,Goku,Saiyan,Cell Saga,4291772,17723133,184,Villain,True
+20166,Vegeta,Saiyan,Saiyan Saga,10529,416450,292,Anti-Hero,False
+20167,Frieza,Frieza Race,Broly Movie,948648227,41723905824,978,Hero,True
+20168,Krillin,Human,Saiyan Saga,5178,100817,256,Neutral,True
+20169,Piccolo,Namekian,Buu Saga,61749372,2964463105,691,Anti-Hero,True
+20170,Goten,Saiyan,Frieza Saga,429973,3661998,910,Neutral,False
+20171,Raditz,Hybrid,Battle of Gods,745420954,35750493881,583,Neutral,False
+20172,Frieza,Frieza Race,Frieza Saga,139012,6230264,448,Hero,False
+20173,Goku,Hybrid,Cell Saga,2156718,85226471,797,Hero,False
+20174,Bulma,Human,Battle of Gods,956315467,42186247611,73,Anti-Hero,True
+20175,Yamcha,Human,Buu Saga,81474074,3712255245,814,Anti-Hero,False
+20176,Broly,Hybrid,Buu Saga,33410946,269527910,238,Neutral,True
+20177,Frieza,Frieza Race,Saiyan Saga,17176,43454,86,Neutral,True
+20178,Goku,Saiyan,Battle of Gods,332898574,9603248001,131,Neutral,False
+20179,Android 18,Hybrid,Saiyan Saga,15164,9001,140,Villain,True
+20180,Broly,Hybrid,Tournament of Power,795589992,32273335359,94,Anti-Hero,False
+20181,Android 18,Namekian,Cell Saga,1055450,48112481,644,Neutral,True
+20182,Cell,Angel,Saiyan Saga,3651,172688,680,Hero,True
+20183,Android 18,Frieza Race,Saiyan Saga,13154,534631,261,Anti-Hero,False
+20184,Android 18,Human,Buu Saga,57209648,2178960395,994,Villain,True
+20185,Broly,Saiyan,Saiyan Saga,11813,451883,341,Anti-Hero,False
+20186,Gohan,Saiyan,Cell Saga,4287723,102072541,728,Villain,True
+20187,Bulma,Human,Frieza Saga,428403,19296227,78,Hero,False
+20188,Tien,Human,Broly Movie,557201877,851407778,745,Hero,False
+20189,Broly,Saiyan,Battle of Gods,196703316,3441530206,392,Villain,True
+20190,Bardock,Saiyan,Battle of Gods,217860666,5796777245,816,Villain,False
+20191,Android 17,Namekian,Battle of Gods,924253305,33590548119,190,Anti-Hero,False
+20192,Goku,Hybrid,Buu Saga,38030815,1228576124,981,Neutral,True
+20193,Vegeta,Saiyan,Buu Saga,75674315,3492342527,847,Hero,False
+20194,Yamcha,Human,Battle of Gods,905220941,29786557283,273,Anti-Hero,False
+20195,Piccolo,Namekian,Cell Saga,2665756,10101915,381,Neutral,False
+20196,Raditz,Saiyan,Saiyan Saga,13310,50269,53,Anti-Hero,True
+20197,Trunks,Saiyan,Tournament of Power,618229776,5103885224,365,Anti-Hero,True
+20198,Android 18,God,Cell Saga,248210,11911338,845,Villain,True
+20199,Cell,Namekian,Battle of Gods,694009285,22665111380,272,Anti-Hero,False
+20200,Piccolo,Namekian,Battle of Gods,814267514,8511322761,484,Villain,True
+20201,Gohan,Hybrid,Broly Movie,470232765,11879275849,546,Neutral,True
+20202,Beerus,Frieza Race,Tournament of Power,966604690,40590454229,364,Hero,True
+20203,Jiren,Saiyan,Buu Saga,7748263,127319125,561,Anti-Hero,False
+20204,Nappa,Hybrid,Buu Saga,13427065,239162101,104,Villain,False
+20205,Trunks,Hybrid,Battle of Gods,648658050,15044123997,262,Anti-Hero,True
+20206,Krillin,Human,Tournament of Power,953890786,17779304210,471,Neutral,False
+20207,Goten,Saiyan,Cell Saga,4295974,29159842,763,Hero,True
+20208,Tien,Human,Saiyan Saga,6717,33416,503,Hero,True
+20209,Tien,Human,Broly Movie,809917126,1230737727,491,Villain,True
+20210,Trunks,Hybrid,Broly Movie,43507566,1792112634,739,Hero,False
+20211,Beerus,Namekian,Cell Saga,3234359,150319751,500,Villain,False
+20212,Raditz,Saiyan,Buu Saga,50197758,989538456,540,Anti-Hero,False
+20213,Frieza,Frieza Race,Buu Saga,9735020,390211531,516,Hero,False
+20214,Nappa,Hybrid,Tournament of Power,574565269,6459126269,289,Neutral,False
+20215,Jiren,Saiyan,Saiyan Saga,5146,116295,909,Anti-Hero,False
+20216,Majin Buu,Saiyan,Tournament of Power,536127166,8637059176,926,Villain,True
+20217,Android 18,Frieza Race,Broly Movie,470927706,22960348414,946,Hero,True
+20218,Raditz,Hybrid,Broly Movie,846238112,16392756879,61,Hero,False
+20219,Android 17,Saiyan,Buu Saga,17678987,642843230,613,Villain,True
+20220,Goten,Saiyan,Cell Saga,4822307,106816401,873,Neutral,False
+20221,Raditz,Saiyan,Saiyan Saga,15303,527887,323,Villain,True
+20222,Jiren,Namekian,Broly Movie,986572779,5722001913,968,Hero,False
+20223,Raditz,Saiyan,Tournament of Power,14229381,9001,920,Villain,False
+20224,Jiren,God,Frieza Saga,70790,2499084,540,Anti-Hero,True
+20225,Vegeta,Hybrid,Battle of Gods,658309042,1651947774,399,Villain,True
+20226,Trunks,Saiyan,Saiyan Saga,2873,64157,886,Hero,False
+20227,Android 17,Android,Saiyan Saga,7090,102716,832,Hero,True
+20228,Cell,Frieza Race,Saiyan Saga,16862,332767,70,Anti-Hero,True
+20229,Android 17,God,Buu Saga,51036411,1536046479,845,Neutral,False
+20230,Goten,Saiyan,Broly Movie,209106192,10235960592,540,Anti-Hero,True
+20231,Android 17,Human,Broly Movie,177755033,2014515856,241,Neutral,False
+20232,Krillin,Human,Saiyan Saga,6488,264131,634,Hero,False
+20233,Nappa,Saiyan,Saiyan Saga,17212,699498,830,Neutral,False
+20234,Vegeta,Hybrid,Cell Saga,4752083,113362978,988,Hero,False
+20235,Piccolo,Namekian,Cell Saga,2278068,54535859,971,Villain,False
+20236,Beerus,God,Tournament of Power,456636110,13897346434,729,Anti-Hero,False
+20237,Piccolo,Namekian,Tournament of Power,764969957,12460391031,735,Neutral,True
+20238,Tien,Human,Tournament of Power,659737033,19751493037,33,Anti-Hero,False
+20239,Cell,God,Cell Saga,4671502,204481380,815,Villain,False
+20240,Broly,Saiyan,Saiyan Saga,1466,72539,371,Anti-Hero,False
+20241,Vegeta,Saiyan,Tournament of Power,734263159,15574239344,119,Neutral,True
+20242,Goku,Saiyan,Broly Movie,144808459,1019835105,158,Neutral,True
+20243,Goten,Hybrid,Tournament of Power,676142272,17596286805,607,Hero,True
+20244,Trunks,Saiyan,Frieza Saga,366490,14741749,485,Villain,False
+20245,Whis,God,Buu Saga,23398868,61623221,83,Hero,False
+20246,Whis,God,Saiyan Saga,10047,166144,667,Anti-Hero,False
+20247,Bardock,Saiyan,Tournament of Power,562677298,7473733045,17,Neutral,False
+20248,Android 17,Namekian,Cell Saga,2269952,32463364,560,Villain,True
+20249,Yamcha,Human,Saiyan Saga,16258,380859,470,Anti-Hero,True
+20250,Frieza,Frieza Race,Buu Saga,84149079,3231130559,826,Villain,False
+20251,Whis,Saiyan,Saiyan Saga,3222,147555,382,Anti-Hero,True
+20252,Nappa,Hybrid,Saiyan Saga,14193,709565,139,Neutral,True
+20253,Broly,Hybrid,Broly Movie,131593458,5406965023,54,Villain,False
+20254,Tien,Human,Battle of Gods,104563996,1619861831,866,Anti-Hero,True
+20255,Nappa,Hybrid,Saiyan Saga,17201,61836,286,Hero,False
+20256,Android 18,Human,Tournament of Power,262132363,1955836302,945,Anti-Hero,True
+20257,Android 17,Frieza Race,Tournament of Power,635699141,24082830275,199,Neutral,True
+20258,Bardock,Hybrid,Tournament of Power,754688492,14411926310,252,Hero,True
+20259,Yamcha,Human,Buu Saga,75589925,2654871774,339,Neutral,True
+20260,Bulma,Human,Buu Saga,14449523,106773418,913,Anti-Hero,True
+20261,Beerus,Namekian,Broly Movie,824354598,21445727879,662,Hero,False
+20262,Whis,Human,Battle of Gods,516008344,14980380983,930,Neutral,False
+20263,Majin Buu,Android,Buu Saga,41147368,630790557,19,Anti-Hero,True
+20264,Raditz,Hybrid,Tournament of Power,295258742,6695426092,572,Anti-Hero,False
+20265,Bardock,Hybrid,Tournament of Power,104421849,2038833239,119,Neutral,True
+20266,Bulma,Human,Broly Movie,187812920,4469123734,630,Villain,True
+20267,Whis,Angel,Battle of Gods,78520314,3295868208,201,Villain,False
+20268,Vegeta,Saiyan,Battle of Gods,79986753,2166267137,49,Hero,True
+20269,Bardock,Hybrid,Saiyan Saga,15120,691512,987,Anti-Hero,True
+20270,Whis,Saiyan,Cell Saga,480222,19151047,700,Anti-Hero,True
+20271,Yamcha,Human,Tournament of Power,40903829,834313218,93,Anti-Hero,False
+20272,Cell,Namekian,Buu Saga,7888967,83857999,235,Hero,True
+20273,Bardock,Hybrid,Battle of Gods,176587146,5075180948,748,Villain,False
+20274,Yamcha,Human,Saiyan Saga,12693,151351,110,Neutral,True
+20275,Majin Buu,Android,Frieza Saga,32262,1259437,40,Anti-Hero,False
+20276,Frieza,Frieza Race,Buu Saga,60601407,2194920583,758,Hero,True
+20277,Nappa,Hybrid,Broly Movie,237181026,4314734606,21,Anti-Hero,True
+20278,Gohan,Hybrid,Saiyan Saga,3064,142247,115,Anti-Hero,True
+20279,Raditz,Hybrid,Frieza Saga,48260,1848147,435,Villain,True
+20280,Gohan,Saiyan,Cell Saga,4709097,20643433,949,Hero,False
+20281,Frieza,Frieza Race,Tournament of Power,25179350,348618110,912,Anti-Hero,False
+20282,Jiren,Namekian,Buu Saga,65233718,1037259724,611,Villain,False
+20283,Piccolo,Namekian,Buu Saga,28351095,699278526,953,Anti-Hero,False
+20284,Tien,Human,Tournament of Power,322813735,15886438359,540,Villain,True
+20285,Tien,Human,Battle of Gods,926674927,44953841922,939,Villain,False
+20286,Raditz,Hybrid,Saiyan Saga,17276,39314,924,Neutral,True
+20287,Tien,Human,Buu Saga,77290930,2129596593,743,Anti-Hero,True
+20288,Whis,Majin,Saiyan Saga,14744,341617,815,Neutral,False
+20289,Tien,Human,Frieza Saga,281096,5513091,709,Villain,True
+20290,Piccolo,Namekian,Battle of Gods,523256677,15679093134,653,Villain,False
+20291,Majin Buu,Saiyan,Buu Saga,13909711,167947206,929,Anti-Hero,True
+20292,Goten,Saiyan,Tournament of Power,110066427,1308666594,370,Anti-Hero,True
+20293,Goten,Hybrid,Tournament of Power,805919051,32846082352,902,Neutral,True
+20294,Goku,Hybrid,Cell Saga,1977418,73614269,643,Hero,True
+20295,Goten,Hybrid,Buu Saga,61505916,251804618,806,Neutral,False
+20296,Yamcha,Human,Broly Movie,51820577,2242969989,26,Villain,False
+20297,Goku,Saiyan,Battle of Gods,780508634,36796720073,174,Villain,True
+20298,Gohan,Saiyan,Cell Saga,1360863,6000950,424,Villain,False
+20299,Gohan,Hybrid,Battle of Gods,346220411,3193773029,384,Anti-Hero,False
+20300,Broly,Hybrid,Broly Movie,285116201,8281608152,915,Neutral,True
+20301,Tien,Human,Buu Saga,30173895,421441202,393,Neutral,False
+20302,Android 18,Frieza Race,Cell Saga,3923112,188036363,602,Villain,False
+20303,Yamcha,Human,Broly Movie,565647202,13492787805,65,Anti-Hero,True
+20304,Vegeta,Hybrid,Saiyan Saga,10218,74693,939,Hero,True
+20305,Vegeta,Hybrid,Cell Saga,4056740,167942627,921,Neutral,True
+20306,Raditz,Saiyan,Frieza Saga,215807,10309659,72,Neutral,False
+20307,Jiren,Namekian,Saiyan Saga,9530,168003,151,Villain,False
+20308,Gohan,Hybrid,Saiyan Saga,7390,50355,896,Neutral,True
+20309,Frieza,Frieza Race,Tournament of Power,35310923,1422976631,728,Neutral,True
+20310,Jiren,Angel,Buu Saga,61390509,2463184755,182,Villain,True
+20311,Cell,Saiyan,Buu Saga,28348967,1329236627,515,Neutral,False
+20312,Android 17,Android,Battle of Gods,621863918,27743607138,489,Neutral,True
+20313,Raditz,Saiyan,Cell Saga,1319628,35348964,542,Anti-Hero,True
+20314,Whis,Hybrid,Broly Movie,753511626,12370619601,701,Anti-Hero,False
+20315,Goten,Hybrid,Frieza Saga,181739,3498959,609,Villain,False
+20316,Goku,Hybrid,Battle of Gods,868391970,24457675267,181,Villain,True
+20317,Nappa,Saiyan,Buu Saga,57193534,383562686,93,Villain,False
+20318,Broly,Saiyan,Broly Movie,688407326,15052338811,965,Hero,False
+20319,Gohan,Saiyan,Cell Saga,1695519,70707846,877,Hero,True
+20320,Raditz,Saiyan,Tournament of Power,935739650,41648299202,898,Anti-Hero,False
+20321,Cell,Frieza Race,Tournament of Power,406320302,8780441666,980,Anti-Hero,True
+20322,Bulma,Human,Cell Saga,3366785,37775237,744,Hero,False
+20323,Android 18,Saiyan,Saiyan Saga,13946,381537,53,Villain,True
+20324,Nappa,Saiyan,Buu Saga,38349000,671180975,410,Anti-Hero,False
+20325,Jiren,Android,Battle of Gods,374869338,3017628911,400,Villain,True
+20326,Beerus,Hybrid,Frieza Saga,436028,18973591,605,Hero,False
+20327,Goku,Saiyan,Frieza Saga,28716,1191605,313,Hero,True
+20328,Beerus,Android,Battle of Gods,552119072,9001,870,Neutral,False
+20329,Bulma,Human,Broly Movie,540447088,8307671234,324,Villain,True
+20330,Raditz,Hybrid,Broly Movie,546063427,26647300846,405,Villain,True
+20331,Goten,Saiyan,Tournament of Power,187760726,3021102877,842,Anti-Hero,False
+20332,Frieza,Frieza Race,Broly Movie,968470533,16665277873,502,Neutral,False
+20333,Tien,Human,Buu Saga,73284030,1975365056,326,Anti-Hero,True
+20334,Frieza,Frieza Race,Frieza Saga,252005,3112305,792,Neutral,False
+20335,Krillin,Human,Buu Saga,48134016,188146312,875,Hero,False
+20336,Frieza,Frieza Race,Tournament of Power,300277284,3212307021,250,Hero,True
+20337,Yamcha,Human,Buu Saga,49236818,1683807207,285,Hero,True
+20338,Vegeta,Hybrid,Broly Movie,131741893,3009382330,658,Hero,True
+20339,Goten,Hybrid,Buu Saga,7272947,231443135,169,Anti-Hero,True
+20340,Piccolo,Namekian,Frieza Saga,81153,2502063,398,Neutral,True
+20341,Nappa,Hybrid,Buu Saga,11975128,122688320,372,Hero,True
+20342,Vegeta,Saiyan,Battle of Gods,607114730,13921513676,509,Villain,False
+20343,Tien,Human,Tournament of Power,562991778,20146353783,182,Neutral,False
+20344,Jiren,Namekian,Buu Saga,15498570,211287549,543,Neutral,False
+20345,Piccolo,Namekian,Broly Movie,198913652,7059726787,321,Hero,False
+20346,Majin Buu,Angel,Battle of Gods,200281225,4735680016,342,Neutral,False
+20347,Krillin,Human,Tournament of Power,55028045,1881895007,18,Villain,False
+20348,Goten,Hybrid,Cell Saga,1630297,7326815,158,Hero,True
+20349,Cell,Namekian,Frieza Saga,473893,17068643,7,Neutral,True
+20350,Trunks,Saiyan,Battle of Gods,965987544,20400103493,394,Hero,False
+20351,Cell,Frieza Race,Cell Saga,4271315,146427156,247,Anti-Hero,True
+20352,Trunks,Saiyan,Broly Movie,53472008,1393844641,417,Hero,False
+20353,Broly,Hybrid,Buu Saga,76798940,3446653935,141,Hero,False
+20354,Raditz,Hybrid,Frieza Saga,480585,21712198,722,Anti-Hero,False
+20355,Frieza,Frieza Race,Frieza Saga,50436,1812392,678,Hero,False
+20356,Whis,Angel,Broly Movie,740432969,13427587799,906,Villain,True
+20357,Gohan,Hybrid,Saiyan Saga,16127,276615,279,Neutral,True
+20358,Krillin,Human,Saiyan Saga,2049,53406,512,Anti-Hero,False
+20359,Krillin,Human,Buu Saga,84364004,1764866982,387,Anti-Hero,True
+20360,Krillin,Human,Broly Movie,166490047,7693857216,8,Anti-Hero,False
+20361,Goku,Saiyan,Battle of Gods,634818686,3155927369,788,Anti-Hero,False
+20362,Yamcha,Human,Cell Saga,3482265,124125367,887,Hero,False
+20363,Android 17,Saiyan,Buu Saga,84347794,3779788608,696,Neutral,False
+20364,Gohan,Hybrid,Battle of Gods,31980324,299376922,182,Neutral,False
+20365,Android 18,Angel,Frieza Saga,256410,3787641,99,Villain,False
+20366,Whis,Majin,Buu Saga,9752486,376999938,421,Villain,True
+20367,Cell,Saiyan,Tournament of Power,813673675,34093638229,95,Anti-Hero,True
+20368,Gohan,Hybrid,Broly Movie,686456514,22557425327,169,Villain,True
+20369,Majin Buu,Hybrid,Frieza Saga,515752,8005488,916,Neutral,True
+20370,Beerus,Hybrid,Broly Movie,827709983,19512534990,820,Hero,True
+20371,Frieza,Frieza Race,Saiyan Saga,8618,73402,792,Villain,False
+20372,Piccolo,Namekian,Broly Movie,503436433,14617332144,43,Anti-Hero,False
+20373,Nappa,Hybrid,Tournament of Power,869380442,13080438275,374,Neutral,False
+20374,Bardock,Saiyan,Frieza Saga,199455,2050927,184,Anti-Hero,True
+20375,Broly,Saiyan,Tournament of Power,899725100,38696780335,948,Villain,False
+20376,Piccolo,Namekian,Buu Saga,50653064,501456580,408,Villain,True
+20377,Whis,Human,Buu Saga,85788268,2721498741,520,Villain,True
+20378,Whis,God,Cell Saga,1025527,38498473,726,Anti-Hero,True
+20379,Android 18,Android,Tournament of Power,310574515,9001,386,Anti-Hero,True
+20380,Nappa,Hybrid,Cell Saga,219359,2606299,557,Anti-Hero,True
+20381,Broly,Hybrid,Battle of Gods,960841424,21146875564,482,Neutral,True
+20382,Raditz,Saiyan,Frieza Saga,504398,23438520,555,Villain,True
+20383,Raditz,Saiyan,Buu Saga,67514003,572950157,819,Anti-Hero,True
+20384,Vegeta,Hybrid,Buu Saga,13894436,541078353,634,Anti-Hero,True
+20385,Cell,Hybrid,Battle of Gods,262870249,6925729004,623,Anti-Hero,True
+20386,Goten,Hybrid,Buu Saga,61135486,92703084,63,Neutral,False
+20387,Bulma,Human,Buu Saga,11641417,380089562,839,Villain,True
+20388,Vegeta,Saiyan,Frieza Saga,528088,16228905,139,Anti-Hero,False
+20389,Vegeta,Hybrid,Frieza Saga,23926,177465,788,Villain,False
+20390,Gohan,Hybrid,Buu Saga,36948183,1520212104,740,Neutral,False
+20391,Yamcha,Human,Buu Saga,60219115,537696377,785,Villain,True
+20392,Broly,Saiyan,Saiyan Saga,14883,610445,520,Neutral,True
+20393,Android 17,Human,Cell Saga,527316,3772697,427,Villain,True
+20394,Gohan,Hybrid,Cell Saga,2464837,118449167,96,Anti-Hero,True
+20395,Bardock,Saiyan,Tournament of Power,762470001,29273328499,205,Neutral,False
+20396,Broly,Hybrid,Frieza Saga,157254,7309889,88,Villain,True
+20397,Raditz,Saiyan,Battle of Gods,620388471,26291549496,12,Villain,True
+20398,Frieza,Frieza Race,Broly Movie,629799197,27143969055,641,Hero,False
+20399,Broly,Saiyan,Tournament of Power,825344116,22237489038,706,Neutral,False
+20400,Cell,God,Buu Saga,88988624,3791826371,321,Villain,False
+20401,Krillin,Human,Cell Saga,4520581,11536088,702,Hero,True
+20402,Trunks,Saiyan,Saiyan Saga,7753,337532,185,Villain,False
+20403,Majin Buu,Majin,Tournament of Power,456797822,16741322667,72,Anti-Hero,False
+20404,Trunks,Saiyan,Tournament of Power,545803933,12565189213,668,Hero,False
+20405,Nappa,Hybrid,Buu Saga,31321340,700888113,661,Anti-Hero,True
+20406,Android 18,Human,Battle of Gods,152843414,5655419159,352,Anti-Hero,True
+20407,Gohan,Hybrid,Buu Saga,29032888,1227383780,722,Hero,True
+20408,Frieza,Frieza Race,Battle of Gods,892311469,43405732151,215,Neutral,False
+20409,Vegeta,Hybrid,Broly Movie,336824275,16760758593,645,Hero,True
+20410,Piccolo,Namekian,Cell Saga,2500514,62933055,907,Neutral,True
+20411,Majin Buu,Saiyan,Saiyan Saga,2701,73362,826,Hero,True
+20412,Goku,Hybrid,Broly Movie,336588571,12452989392,446,Hero,False
+20413,Goku,Saiyan,Frieza Saga,316038,4874816,5,Anti-Hero,True
+20414,Goku,Saiyan,Broly Movie,867295862,32557987489,300,Hero,False
+20415,Yamcha,Human,Cell Saga,3037482,43516126,845,Hero,True
+20416,Vegeta,Saiyan,Tournament of Power,247536155,8287082109,695,Hero,True
+20417,Tien,Human,Frieza Saga,485834,4736278,264,Neutral,True
+20418,Whis,Android,Frieza Saga,43841,1244560,952,Neutral,False
+20419,Tien,Human,Cell Saga,2731668,85502543,853,Neutral,True
+20420,Majin Buu,Saiyan,Buu Saga,21914878,378564061,54,Anti-Hero,False
+20421,Goku,Hybrid,Saiyan Saga,3297,73967,383,Villain,False
+20422,Tien,Human,Broly Movie,726738714,30033982450,227,Hero,False
+20423,Nappa,Saiyan,Broly Movie,704986921,33795786088,611,Hero,False
+20424,Beerus,Namekian,Battle of Gods,529731624,14893709332,815,Neutral,True
+20425,Whis,Frieza Race,Saiyan Saga,4889,68277,365,Neutral,True
+20426,Raditz,Hybrid,Tournament of Power,70584321,1891312566,626,Anti-Hero,True
+20427,Cell,Frieza Race,Tournament of Power,498762412,10298685877,355,Hero,False
+20428,Jiren,Human,Broly Movie,613204506,29322954825,120,Hero,False
+20429,Gohan,Hybrid,Buu Saga,56303425,1360786156,852,Villain,True
+20430,Whis,Angel,Broly Movie,44128521,685366250,729,Villain,True
+20431,Bulma,Human,Frieza Saga,294000,4135337,70,Neutral,True
+20432,Yamcha,Human,Buu Saga,38762429,888791244,230,Neutral,True
+20433,Whis,Majin,Frieza Saga,261567,12832656,677,Neutral,True
+20434,Cell,Human,Saiyan Saga,12207,573187,239,Hero,False
+20435,Goten,Hybrid,Tournament of Power,125035751,5390095419,123,Neutral,True
+20436,Bulma,Human,Broly Movie,506166289,19614423788,428,Neutral,False
+20437,Android 17,Angel,Cell Saga,3782721,149533852,378,Hero,False
+20438,Trunks,Saiyan,Frieza Saga,257688,12716552,583,Hero,False
+20439,Bulma,Human,Frieza Saga,46503,2210719,961,Neutral,True
+20440,Nappa,Hybrid,Cell Saga,815440,10163008,965,Villain,True
+20441,Frieza,Frieza Race,Buu Saga,5166397,9001,804,Hero,True
+20442,Frieza,Frieza Race,Saiyan Saga,7134,280312,26,Anti-Hero,False
+20443,Nappa,Saiyan,Saiyan Saga,16437,146389,532,Neutral,True
+20444,Frieza,Frieza Race,Cell Saga,1746652,59260261,612,Anti-Hero,False
+20445,Cell,Human,Battle of Gods,589803323,3401310104,494,Villain,False
+20446,Android 18,Angel,Broly Movie,798520642,8291805901,403,Villain,True
+20447,Beerus,God,Battle of Gods,116070441,3305777638,519,Villain,False
+20448,Jiren,Majin,Frieza Saga,100467,1954077,807,Hero,True
+20449,Majin Buu,Majin,Cell Saga,2781898,88340693,746,Villain,False
+20450,Yamcha,Human,Broly Movie,238186530,6468953662,894,Hero,False
+20451,Broly,Hybrid,Tournament of Power,879324402,34003069736,451,Anti-Hero,False
+20452,Bardock,Hybrid,Frieza Saga,276105,5741784,81,Villain,False
+20453,Krillin,Human,Frieza Saga,85658,922966,37,Villain,False
+20454,Piccolo,Namekian,Buu Saga,10403510,367447348,275,Anti-Hero,True
+20455,Goku,Saiyan,Buu Saga,71509086,1867906152,373,Hero,False
+20456,Majin Buu,God,Battle of Gods,726304505,2444714642,537,Neutral,False
+20457,Piccolo,Namekian,Cell Saga,2409711,63111934,534,Villain,False
+20458,Krillin,Human,Buu Saga,75696749,874045553,110,Hero,True
+20459,Raditz,Hybrid,Frieza Saga,400120,6702981,589,Hero,True
+20460,Raditz,Saiyan,Saiyan Saga,16045,768826,199,Villain,False
+20461,Bardock,Saiyan,Saiyan Saga,5788,263220,595,Neutral,False
+20462,Vegeta,Saiyan,Buu Saga,66826100,1645436916,86,Villain,False
+20463,Krillin,Human,Buu Saga,34374705,501651038,818,Anti-Hero,False
+20464,Tien,Human,Saiyan Saga,13209,470946,382,Anti-Hero,False
+20465,Krillin,Human,Battle of Gods,869248053,30812791724,53,Anti-Hero,True
+20466,Goten,Hybrid,Tournament of Power,196921462,3852454984,959,Villain,False
+20467,Nappa,Hybrid,Tournament of Power,741839010,29239265789,411,Hero,False
+20468,Whis,Frieza Race,Buu Saga,68704591,107391270,94,Villain,False
+20469,Majin Buu,Hybrid,Broly Movie,276896169,12841960549,331,Hero,True
+20470,Majin Buu,Android,Buu Saga,38769202,1642314313,908,Hero,False
+20471,Majin Buu,Human,Broly Movie,264161968,4115284032,124,Hero,False
+20472,Majin Buu,Angel,Buu Saga,41931777,267729226,92,Anti-Hero,True
+20473,Krillin,Human,Broly Movie,829313555,15841462095,494,Villain,True
+20474,Bardock,Hybrid,Tournament of Power,637606490,24736000111,689,Anti-Hero,True
+20475,Trunks,Hybrid,Frieza Saga,265580,6019301,380,Villain,True
+20476,Yamcha,Human,Broly Movie,924097928,7236846965,452,Villain,False
+20477,Raditz,Saiyan,Tournament of Power,365924060,14602365369,177,Neutral,False
+20478,Beerus,Namekian,Battle of Gods,275221891,5383975337,914,Villain,False
+20479,Krillin,Human,Cell Saga,2118802,80966833,394,Villain,False
+20480,Nappa,Hybrid,Broly Movie,931875680,39956540081,79,Villain,True
+20481,Jiren,Majin,Battle of Gods,592809578,10661827954,500,Villain,False
+20482,Broly,Hybrid,Saiyan Saga,4563,214851,852,Neutral,True
+20483,Vegeta,Hybrid,Saiyan Saga,11361,376855,269,Hero,True
+20484,Whis,Hybrid,Frieza Saga,185140,5272943,546,Neutral,True
+20485,Gohan,Hybrid,Tournament of Power,396342854,4374010204,22,Anti-Hero,False
+20486,Vegeta,Hybrid,Saiyan Saga,10699,76293,793,Neutral,True
+20487,Yamcha,Human,Tournament of Power,199776331,4837028200,968,Hero,False
+20488,Raditz,Saiyan,Buu Saga,75985729,2821032536,108,Hero,False
+20489,Tien,Human,Tournament of Power,932692352,36805626058,709,Hero,True
+20490,Krillin,Human,Tournament of Power,360909609,12740264379,667,Anti-Hero,False
+20491,Goten,Hybrid,Tournament of Power,465797691,13312070057,281,Hero,False
+20492,Goku,Hybrid,Broly Movie,347771252,9001,754,Neutral,True
+20493,Raditz,Hybrid,Battle of Gods,805458765,33236017052,883,Anti-Hero,False
+20494,Nappa,Saiyan,Buu Saga,8609975,149370079,777,Neutral,True
+20495,Bulma,Human,Buu Saga,15174943,235750158,934,Hero,False
+20496,Goten,Saiyan,Saiyan Saga,1479,28324,997,Neutral,False
+20497,Broly,Saiyan,Cell Saga,179168,8433319,319,Villain,False
+20498,Piccolo,Namekian,Cell Saga,2785160,66190570,801,Anti-Hero,True
+20499,Raditz,Hybrid,Frieza Saga,215765,2612851,812,Neutral,True
+20500,Bulma,Human,Tournament of Power,394382738,17864616593,902,Villain,True
+20501,Majin Buu,Saiyan,Broly Movie,996361349,28185342500,919,Hero,True
+20502,Beerus,Hybrid,Buu Saga,45830036,1643674825,401,Anti-Hero,True
+20503,Cell,Angel,Tournament of Power,780968713,25205897876,278,Anti-Hero,False
+20504,Gohan,Hybrid,Battle of Gods,616720395,11250121460,759,Anti-Hero,True
+20505,Whis,Hybrid,Saiyan Saga,6668,168799,875,Neutral,True
+20506,Trunks,Saiyan,Frieza Saga,48598,2048714,236,Neutral,True
+20507,Majin Buu,Frieza Race,Cell Saga,1827516,38054529,480,Neutral,False
+20508,Nappa,Hybrid,Buu Saga,24875933,459486460,209,Hero,False
+20509,Broly,Saiyan,Buu Saga,64163744,2433005306,615,Anti-Hero,True
+20510,Trunks,Saiyan,Saiyan Saga,13979,174583,729,Hero,True
+20511,Cell,Human,Buu Saga,5114944,216393514,743,Neutral,False
+20512,Majin Buu,Namekian,Cell Saga,2734232,65725736,334,Anti-Hero,False
+20513,Frieza,Frieza Race,Tournament of Power,695515726,13141525850,120,Anti-Hero,True
+20514,Goku,Hybrid,Cell Saga,3073776,73787535,756,Anti-Hero,True
+20515,Nappa,Saiyan,Tournament of Power,397155295,15230765055,145,Anti-Hero,True
+20516,Android 17,Namekian,Broly Movie,977071628,10670790914,965,Villain,True
+20517,Gohan,Hybrid,Broly Movie,387743147,3223285340,633,Hero,False
+20518,Raditz,Saiyan,Battle of Gods,582867896,6676251433,504,Neutral,False
+20519,Goten,Hybrid,Battle of Gods,367308609,1417463841,431,Neutral,False
+20520,Majin Buu,Human,Cell Saga,526882,7193271,472,Neutral,False
+20521,Yamcha,Human,Battle of Gods,59822640,1540387113,492,Neutral,False
+20522,Goku,Hybrid,Saiyan Saga,6949,221584,40,Neutral,False
+20523,Android 17,Saiyan,Broly Movie,20529258,599121284,261,Hero,False
+20524,Piccolo,Namekian,Battle of Gods,496419375,23909140257,962,Anti-Hero,True
+20525,Nappa,Hybrid,Broly Movie,834852706,7350520968,320,Villain,True
+20526,Majin Buu,Frieza Race,Frieza Saga,112043,4738714,22,Hero,True
+20527,Cell,Hybrid,Cell Saga,614758,7403081,107,Neutral,True
+20528,Bardock,Saiyan,Cell Saga,3552637,30368780,440,Anti-Hero,False
+20529,Broly,Hybrid,Battle of Gods,183328791,8376158990,915,Anti-Hero,False
+20530,Android 17,Android,Frieza Saga,291840,11023591,783,Anti-Hero,True
+20531,Majin Buu,Majin,Broly Movie,297850708,14788471138,835,Anti-Hero,True
+20532,Raditz,Hybrid,Broly Movie,861590056,40937614199,670,Villain,True
+20533,Broly,Hybrid,Frieza Saga,22538,549976,898,Anti-Hero,True
+20534,Yamcha,Human,Cell Saga,4652810,11627403,95,Neutral,True
+20535,Tien,Human,Saiyan Saga,15790,282164,321,Neutral,True
+20536,Android 18,Majin,Broly Movie,452748170,15648426288,375,Neutral,False
+20537,Piccolo,Namekian,Buu Saga,67381566,207904986,380,Hero,False
+20538,Whis,God,Buu Saga,21469262,91314359,789,Neutral,True
+20539,Jiren,Saiyan,Tournament of Power,998026771,26209513684,117,Villain,True
+20540,Yamcha,Human,Battle of Gods,910846420,23299484049,852,Anti-Hero,False
+20541,Tien,Human,Battle of Gods,880707115,23626930912,401,Anti-Hero,False
+20542,Broly,Hybrid,Broly Movie,282445907,5701068511,264,Neutral,True
+20543,Majin Buu,God,Broly Movie,189418335,1435792279,273,Villain,False
+20544,Tien,Human,Saiyan Saga,2070,88413,190,Hero,False
+20545,Frieza,Frieza Race,Cell Saga,3225650,106168088,975,Neutral,True
+20546,Android 17,Majin,Frieza Saga,170119,4887566,799,Villain,False
+20547,Android 17,Majin,Battle of Gods,280564735,2221802191,781,Anti-Hero,True
+20548,Vegeta,Hybrid,Broly Movie,281527282,5203944699,980,Anti-Hero,False
+20549,Whis,Namekian,Broly Movie,522231649,25832871010,28,Anti-Hero,False
+20550,Bardock,Hybrid,Frieza Saga,314471,1004823,103,Villain,False
+20551,Android 17,Frieza Race,Broly Movie,755241417,32174631881,278,Neutral,True
+20552,Goku,Hybrid,Battle of Gods,946217830,11242005777,296,Anti-Hero,False
+20553,Bulma,Human,Broly Movie,137820759,4139681058,71,Hero,False
+20554,Cell,Saiyan,Buu Saga,74995553,241948136,801,Neutral,True
+20555,Bardock,Hybrid,Saiyan Saga,4185,134867,41,Hero,True
+20556,Jiren,Majin,Frieza Saga,439504,12346843,688,Villain,True
+20557,Majin Buu,Saiyan,Broly Movie,541917358,6698972029,42,Neutral,True
+20558,Android 17,Frieza Race,Broly Movie,503106528,7806861361,327,Neutral,False
+20559,Vegeta,Saiyan,Frieza Saga,283247,2692870,804,Neutral,False
+20560,Yamcha,Human,Buu Saga,33133532,619061691,376,Neutral,False
+20561,Majin Buu,Namekian,Frieza Saga,212192,2839851,707,Hero,True
+20562,Android 17,Frieza Race,Frieza Saga,169089,5594613,950,Anti-Hero,True
+20563,Nappa,Saiyan,Broly Movie,434959745,12688720899,828,Hero,True
+20564,Krillin,Human,Buu Saga,14758954,719501921,426,Hero,True
+20565,Android 18,Frieza Race,Tournament of Power,940583119,4466678342,277,Hero,True
+20566,Krillin,Human,Broly Movie,605751581,24666126983,869,Hero,False
+20567,Bulma,Human,Tournament of Power,36995761,439310905,332,Hero,True
+20568,Tien,Human,Battle of Gods,19747693,461248400,846,Villain,True
+20569,Nappa,Hybrid,Frieza Saga,73441,2328974,480,Anti-Hero,True
+20570,Beerus,Namekian,Tournament of Power,840493598,24227253163,272,Neutral,True
+20571,Raditz,Hybrid,Saiyan Saga,13144,406929,941,Hero,True
+20572,Trunks,Hybrid,Frieza Saga,510830,1996275,50,Anti-Hero,False
+20573,Tien,Human,Cell Saga,2278732,50228836,778,Hero,True
+20574,Bardock,Saiyan,Frieza Saga,183479,9070311,898,Villain,True
+20575,Piccolo,Namekian,Cell Saga,2799460,116165524,402,Hero,False
+20576,Whis,Hybrid,Tournament of Power,790065569,27952684005,736,Villain,False
+20577,Nappa,Saiyan,Frieza Saga,287283,12451604,176,Villain,True
+20578,Goten,Saiyan,Tournament of Power,829977334,7553339659,839,Neutral,False
+20579,Android 18,Frieza Race,Frieza Saga,457851,6390987,216,Villain,False
+20580,Piccolo,Namekian,Tournament of Power,217552770,8283270623,73,Hero,True
+20581,Vegeta,Hybrid,Tournament of Power,356643923,11811830583,343,Anti-Hero,False
+20582,Goten,Saiyan,Saiyan Saga,2698,87005,945,Neutral,False
+20583,Yamcha,Human,Buu Saga,48991637,1515388149,388,Anti-Hero,False
+20584,Nappa,Saiyan,Tournament of Power,374094094,10447660142,140,Anti-Hero,True
+20585,Android 17,Namekian,Saiyan Saga,319,9144,465,Villain,False
+20586,Nappa,Hybrid,Tournament of Power,240060540,2571266123,168,Anti-Hero,False
+20587,Raditz,Hybrid,Battle of Gods,287442956,9296763724,32,Hero,False
+20588,Cell,Hybrid,Saiyan Saga,15194,169431,273,Anti-Hero,True
+20589,Bulma,Human,Battle of Gods,248276244,7171110892,819,Neutral,False
+20590,Tien,Human,Tournament of Power,330434136,10197373577,514,Anti-Hero,False
+20591,Nappa,Saiyan,Tournament of Power,879758437,37234057384,749,Neutral,True
+20592,Vegeta,Hybrid,Frieza Saga,233175,5346266,452,Villain,True
+20593,Goku,Hybrid,Broly Movie,935313910,36628786703,185,Villain,True
+20594,Raditz,Hybrid,Saiyan Saga,16699,70980,299,Neutral,False
+20595,Bulma,Human,Frieza Saga,196072,4992446,575,Anti-Hero,False
+20596,Bulma,Human,Tournament of Power,278418475,7413024383,870,Anti-Hero,True
+20597,Majin Buu,Majin,Buu Saga,75069066,1708240061,224,Villain,False
+20598,Bardock,Saiyan,Broly Movie,696284103,31624682147,641,Hero,True
+20599,Android 18,Angel,Buu Saga,79271670,3154552884,13,Villain,False
+20600,Cell,Angel,Cell Saga,2576749,119155924,519,Villain,True
+20601,Krillin,Human,Frieza Saga,256344,4596462,211,Anti-Hero,False
+20602,Nappa,Saiyan,Buu Saga,19551350,525760954,328,Anti-Hero,True
+20603,Goten,Saiyan,Buu Saga,17717560,776424738,869,Neutral,False
+20604,Beerus,Saiyan,Battle of Gods,732007616,4231520266,194,Anti-Hero,False
+20605,Majin Buu,Saiyan,Buu Saga,78449337,3001263404,473,Anti-Hero,False
+20606,Majin Buu,Human,Tournament of Power,314324223,8178589207,588,Neutral,True
+20607,Android 18,Frieza Race,Buu Saga,75902625,2912672287,717,Hero,False
+20608,Nappa,Saiyan,Broly Movie,716546947,18827532481,108,Villain,False
+20609,Vegeta,Saiyan,Tournament of Power,324821087,14245540491,740,Hero,False
+20610,Tien,Human,Tournament of Power,971687707,19927358027,769,Villain,True
+20611,Vegeta,Hybrid,Cell Saga,278696,11600390,788,Villain,True
+20612,Android 17,Angel,Broly Movie,557417940,10910325892,678,Anti-Hero,False
+20613,Android 18,Majin,Saiyan Saga,6453,58710,658,Anti-Hero,False
+20614,Goten,Saiyan,Tournament of Power,628637084,13750558195,934,Neutral,True
+20615,Vegeta,Saiyan,Buu Saga,17308149,27723217,632,Villain,True
+20616,Broly,Saiyan,Buu Saga,64104487,1083598822,816,Neutral,True
+20617,Krillin,Human,Frieza Saga,518298,23371851,71,Anti-Hero,False
+20618,Krillin,Human,Broly Movie,986928696,41051363254,906,Anti-Hero,True
+20619,Tien,Human,Tournament of Power,823744938,14981332424,29,Hero,True
+20620,Yamcha,Human,Frieza Saga,220276,6648540,453,Neutral,False
+20621,Majin Buu,Namekian,Buu Saga,70327789,3283755232,368,Villain,True
+20622,Android 17,God,Frieza Saga,87377,2440107,710,Anti-Hero,False
+20623,Yamcha,Human,Buu Saga,32484881,827866203,991,Neutral,True
+20624,Raditz,Hybrid,Cell Saga,2434058,110735599,608,Hero,True
+20625,Android 17,God,Cell Saga,697729,33761611,865,Neutral,True
+20626,Yamcha,Human,Tournament of Power,134403155,1839385598,944,Hero,False
+20627,Whis,Namekian,Tournament of Power,211582467,6194101232,616,Neutral,True
+20628,Goku,Hybrid,Buu Saga,89162624,727949865,29,Neutral,True
+20629,Raditz,Saiyan,Battle of Gods,288904385,2340800772,691,Hero,True
+20630,Majin Buu,Majin,Cell Saga,3353715,11219293,459,Hero,False
+20631,Frieza,Frieza Race,Battle of Gods,767307808,14069298278,832,Neutral,False
+20632,Goten,Saiyan,Broly Movie,853410847,20987350027,111,Villain,False
+20633,Frieza,Frieza Race,Buu Saga,16979109,564585640,711,Hero,False
+20634,Goten,Saiyan,Broly Movie,763859930,4985553757,331,Neutral,True
+20635,Gohan,Hybrid,Saiyan Saga,729,25187,384,Hero,False
+20636,Broly,Saiyan,Cell Saga,2558506,30959710,29,Anti-Hero,False
+20637,Nappa,Hybrid,Saiyan Saga,2705,83128,931,Anti-Hero,False
+20638,Goten,Saiyan,Frieza Saga,218926,1289443,742,Villain,True
+20639,Beerus,Android,Tournament of Power,824850071,28994359560,459,Villain,True
+20640,Tien,Human,Cell Saga,3735611,19307599,877,Anti-Hero,True
+20641,Goten,Hybrid,Tournament of Power,669296576,18968215367,382,Anti-Hero,False
+20642,Bardock,Saiyan,Saiyan Saga,11724,46196,334,Villain,True
+20643,Tien,Human,Saiyan Saga,808,28498,20,Neutral,False
+20644,Nappa,Hybrid,Saiyan Saga,975,14825,462,Neutral,False
+20645,Goku,Saiyan,Cell Saga,4594553,159475665,394,Neutral,True
+20646,Jiren,Angel,Broly Movie,559954051,4007294279,368,Hero,False
+20647,Bardock,Hybrid,Broly Movie,462939946,21005302944,548,Anti-Hero,False
+20648,Beerus,Android,Saiyan Saga,6360,114122,575,Villain,False
+20649,Goku,Saiyan,Broly Movie,153972620,2572694629,502,Villain,False
+20650,Yamcha,Human,Frieza Saga,226623,988370,552,Hero,False
+20651,Vegeta,Saiyan,Saiyan Saga,14337,483143,919,Anti-Hero,True
+20652,Whis,Android,Cell Saga,2225582,31781543,234,Anti-Hero,False
+20653,Frieza,Frieza Race,Frieza Saga,479693,3660281,711,Neutral,True
+20654,Bardock,Hybrid,Cell Saga,3080261,62461558,28,Hero,True
+20655,Raditz,Saiyan,Battle of Gods,904538666,43756028734,214,Neutral,False
+20656,Vegeta,Saiyan,Frieza Saga,478639,11517260,183,Neutral,False
+20657,Vegeta,Saiyan,Cell Saga,1684609,23447374,410,Neutral,True
+20658,Android 18,God,Tournament of Power,150782246,3023794712,320,Villain,True
+20659,Gohan,Hybrid,Cell Saga,1137633,45752132,901,Neutral,False
+20660,Bardock,Saiyan,Buu Saga,12125024,357533193,520,Anti-Hero,False
+20661,Cell,Majin,Cell Saga,3539583,135599056,26,Anti-Hero,True
+20662,Tien,Human,Buu Saga,65811482,1236855628,86,Hero,False
+20663,Goten,Saiyan,Tournament of Power,106643452,4091946567,111,Villain,True
+20664,Goku,Saiyan,Battle of Gods,556861237,22424541689,343,Hero,True
+20665,Tien,Human,Saiyan Saga,15388,66066,667,Neutral,True
+20666,Yamcha,Human,Buu Saga,56132956,2500408714,555,Villain,True
+20667,Bulma,Human,Saiyan Saga,5188,196680,129,Anti-Hero,True
+20668,Goten,Hybrid,Tournament of Power,425531038,7994120054,29,Villain,False
+20669,Krillin,Human,Broly Movie,336234679,6399417871,237,Villain,False
+20670,Vegeta,Saiyan,Tournament of Power,584188463,18617278648,269,Anti-Hero,False
+20671,Yamcha,Human,Tournament of Power,901453635,13315286925,363,Villain,True
+20672,Cell,Human,Frieza Saga,139765,5998915,92,Villain,False
+20673,Broly,Saiyan,Buu Saga,9962176,394290861,325,Neutral,True
+20674,Trunks,Hybrid,Tournament of Power,977158064,42452945661,263,Neutral,True
+20675,Raditz,Saiyan,Tournament of Power,692504152,28200068488,327,Villain,False
+20676,Whis,Frieza Race,Broly Movie,150535872,4476461723,314,Villain,True
+20677,Whis,Namekian,Tournament of Power,677675376,6021436158,477,Neutral,True
+20678,Goten,Hybrid,Broly Movie,882663107,12968367453,449,Hero,False
+20679,Majin Buu,God,Frieza Saga,485827,9986156,429,Hero,True
+20680,Trunks,Saiyan,Tournament of Power,517539081,8004473014,820,Villain,True
+20681,Krillin,Human,Broly Movie,589635711,27318850048,961,Villain,True
+20682,Goten,Saiyan,Cell Saga,1987587,45797590,886,Anti-Hero,True
+20683,Raditz,Saiyan,Tournament of Power,409981151,10412098957,930,Villain,False
+20684,Android 17,Frieza Race,Buu Saga,41736437,343075367,23,Anti-Hero,True
+20685,Bardock,Saiyan,Tournament of Power,75960931,3077252408,676,Villain,True
+20686,Android 18,Saiyan,Tournament of Power,113089937,191147553,39,Hero,False
+20687,Yamcha,Human,Battle of Gods,456534709,10674207603,988,Neutral,False
+20688,Android 17,Human,Saiyan Saga,2569,83134,526,Hero,True
+20689,Raditz,Saiyan,Cell Saga,2570766,30175590,571,Villain,True
+20690,Goten,Saiyan,Saiyan Saga,5166,95015,949,Hero,True
+20691,Frieza,Frieza Race,Cell Saga,2361934,61524312,579,Anti-Hero,False
+20692,Raditz,Hybrid,Saiyan Saga,14660,526015,111,Villain,False
+20693,Majin Buu,Saiyan,Tournament of Power,711858003,34592547066,110,Neutral,False
+20694,Bulma,Human,Battle of Gods,210904297,8869783103,588,Hero,True
+20695,Bulma,Human,Cell Saga,442026,7426704,403,Neutral,True
+20696,Yamcha,Human,Battle of Gods,340476231,7663081551,147,Hero,False
+20697,Broly,Saiyan,Battle of Gods,70501255,2774713074,949,Anti-Hero,False
+20698,Bardock,Saiyan,Saiyan Saga,12493,254542,606,Hero,True
+20699,Nappa,Saiyan,Tournament of Power,982180504,42906092958,353,Hero,True
+20700,Krillin,Human,Frieza Saga,510074,13107930,133,Anti-Hero,False
+20701,Yamcha,Human,Cell Saga,3409245,9001,843,Anti-Hero,False
+20702,Broly,Hybrid,Cell Saga,4488549,40660790,854,Villain,True
+20703,Piccolo,Namekian,Saiyan Saga,15162,174667,451,Neutral,False
+20704,Goten,Saiyan,Tournament of Power,116401298,5249416374,514,Villain,True
+20705,Vegeta,Hybrid,Cell Saga,2819919,67999647,919,Neutral,True
+20706,Krillin,Human,Buu Saga,56139699,503271960,70,Hero,False
+20707,Yamcha,Human,Broly Movie,801704725,11172539117,64,Hero,False
+20708,Cell,Frieza Race,Saiyan Saga,16917,491536,191,Anti-Hero,True
+20709,Trunks,Hybrid,Frieza Saga,105719,3102081,962,Hero,False
+20710,Krillin,Human,Tournament of Power,970412185,35642197853,635,Anti-Hero,False
+20711,Nappa,Hybrid,Battle of Gods,31790790,66043444,672,Neutral,False
+20712,Bardock,Saiyan,Cell Saga,2087889,4533848,853,Anti-Hero,False
+20713,Frieza,Frieza Race,Battle of Gods,992597250,6163369360,81,Hero,True
+20714,Goku,Hybrid,Cell Saga,1071798,38498458,904,Villain,True
+20715,Beerus,Android,Frieza Saga,475277,16318644,886,Villain,False
+20716,Krillin,Human,Tournament of Power,60877511,1069267844,48,Anti-Hero,False
+20717,Piccolo,Namekian,Battle of Gods,487624557,10069301439,402,Neutral,False
+20718,Frieza,Frieza Race,Broly Movie,579235268,997119334,373,Hero,False
+20719,Majin Buu,God,Battle of Gods,571328515,14313819957,507,Hero,True
+20720,Majin Buu,Android,Buu Saga,55734690,915737072,921,Hero,True
+20721,Piccolo,Namekian,Tournament of Power,481368620,6993909057,546,Hero,True
+20722,Goku,Saiyan,Frieza Saga,222420,4547464,783,Hero,False
+20723,Broly,Hybrid,Buu Saga,8450768,52958672,743,Hero,True
+20724,Android 18,Angel,Cell Saga,2724256,57624785,95,Neutral,True
+20725,Tien,Human,Cell Saga,2317775,45482417,731,Neutral,True
+20726,Raditz,Saiyan,Buu Saga,16420291,161098897,172,Hero,True
+20727,Frieza,Frieza Race,Cell Saga,581959,20496306,303,Hero,False
+20728,Krillin,Human,Buu Saga,86653687,4021391248,209,Neutral,False
+20729,Frieza,Frieza Race,Frieza Saga,172078,6606496,138,Neutral,False
+20730,Bulma,Human,Battle of Gods,622930729,7822585156,912,Anti-Hero,False
+20731,Bardock,Hybrid,Battle of Gods,417883221,13899813978,325,Hero,False
+20732,Jiren,Frieza Race,Cell Saga,406640,17473797,819,Neutral,False
+20733,Raditz,Hybrid,Frieza Saga,353282,6131563,742,Anti-Hero,True
+20734,Piccolo,Namekian,Frieza Saga,428205,1077535,608,Neutral,True
+20735,Krillin,Human,Saiyan Saga,5798,79562,365,Neutral,False
+20736,Vegeta,Hybrid,Buu Saga,50494854,1128727673,982,Neutral,True
+20737,Nappa,Hybrid,Buu Saga,57299006,920840839,606,Anti-Hero,True
+20738,Android 17,Human,Buu Saga,23825535,435014477,433,Anti-Hero,True
+20739,Bardock,Saiyan,Frieza Saga,144140,6691664,46,Anti-Hero,False
+20740,Bardock,Saiyan,Broly Movie,27403502,1287212711,776,Neutral,False
+20741,Majin Buu,Majin,Frieza Saga,201531,5725993,375,Hero,True
+20742,Yamcha,Human,Buu Saga,47553549,2065197840,822,Anti-Hero,False
+20743,Krillin,Human,Buu Saga,32777247,873683488,466,Anti-Hero,False
+20744,Beerus,Human,Broly Movie,94895183,2895208132,791,Anti-Hero,False
+20745,Bardock,Hybrid,Saiyan Saga,11347,345148,130,Hero,True
+20746,Android 17,Android,Tournament of Power,594401564,4093056499,961,Villain,True
+20747,Yamcha,Human,Tournament of Power,833917388,18932978010,762,Hero,False
+20748,Tien,Human,Frieza Saga,514662,6713157,60,Hero,False
+20749,Goku,Hybrid,Frieza Saga,203525,10081859,379,Villain,True
+20750,Bardock,Saiyan,Cell Saga,1170566,22884296,241,Neutral,True
+20751,Frieza,Frieza Race,Tournament of Power,335227636,12122166558,539,Villain,True
+20752,Frieza,Frieza Race,Frieza Saga,155893,5955093,680,Villain,True
+20753,Cell,Android,Frieza Saga,439763,13974713,953,Neutral,False
+20754,Piccolo,Namekian,Cell Saga,1408529,8604048,334,Anti-Hero,True
+20755,Cell,Android,Buu Saga,47352615,1796668002,206,Villain,True
+20756,Bardock,Hybrid,Saiyan Saga,7922,251456,873,Villain,False
+20757,Bardock,Hybrid,Buu Saga,14608611,685257071,681,Villain,False
+20758,Frieza,Frieza Race,Frieza Saga,105935,3618470,535,Villain,True
+20759,Goku,Saiyan,Broly Movie,537555367,7180172766,731,Anti-Hero,False
+20760,Nappa,Saiyan,Frieza Saga,421335,2879011,160,Anti-Hero,True
+20761,Piccolo,Namekian,Frieza Saga,256012,3537665,635,Hero,False
+20762,Vegeta,Hybrid,Tournament of Power,545136031,7954560000,355,Neutral,False
+20763,Piccolo,Namekian,Saiyan Saga,10221,183651,772,Anti-Hero,True
+20764,Tien,Human,Battle of Gods,829489141,12199249226,574,Villain,False
+20765,Piccolo,Namekian,Cell Saga,1288067,54682076,724,Anti-Hero,False
+20766,Vegeta,Saiyan,Tournament of Power,889000352,12146639179,915,Villain,False
+20767,Bulma,Human,Saiyan Saga,3736,46174,589,Anti-Hero,False
+20768,Android 18,God,Broly Movie,395032540,1381777116,855,Anti-Hero,False
+20769,Gohan,Saiyan,Cell Saga,989126,34107921,470,Anti-Hero,True
+20770,Broly,Saiyan,Buu Saga,52791622,91589156,75,Neutral,True
+20771,Gohan,Saiyan,Saiyan Saga,6247,152329,819,Hero,False
+20772,Piccolo,Namekian,Frieza Saga,497836,6596102,163,Anti-Hero,False
+20773,Android 17,Saiyan,Broly Movie,72750574,2000649724,866,Anti-Hero,False
+20774,Vegeta,Hybrid,Cell Saga,1822865,60741947,96,Neutral,False
+20775,Goten,Saiyan,Saiyan Saga,17223,682099,858,Villain,False
+20776,Jiren,Saiyan,Saiyan Saga,12175,598011,803,Anti-Hero,True
+20777,Broly,Hybrid,Tournament of Power,496925617,18522318516,378,Neutral,True
+20778,Whis,Angel,Saiyan Saga,4373,162097,164,Villain,True
+20779,Gohan,Hybrid,Frieza Saga,155656,4876716,820,Villain,True
+20780,Broly,Hybrid,Cell Saga,1773089,80658839,581,Hero,True
+20781,Broly,Saiyan,Battle of Gods,990145403,4359125731,236,Anti-Hero,True
+20782,Krillin,Human,Saiyan Saga,16705,410997,736,Villain,False
+20783,Gohan,Saiyan,Cell Saga,1668430,3656110,271,Villain,False
+20784,Yamcha,Human,Broly Movie,474669604,15713593017,318,Neutral,True
+20785,Bulma,Human,Cell Saga,1850980,3954395,725,Hero,False
+20786,Krillin,Human,Battle of Gods,656055316,9001,650,Villain,False
+20787,Majin Buu,Saiyan,Battle of Gods,577497633,26988003273,525,Hero,True
+20788,Yamcha,Human,Battle of Gods,397892756,5988096983,432,Anti-Hero,True
+20789,Bardock,Hybrid,Tournament of Power,702422176,23811779270,19,Neutral,False
+20790,Nappa,Saiyan,Broly Movie,308556711,1107566253,278,Villain,True
+20791,Gohan,Saiyan,Saiyan Saga,13143,451883,802,Neutral,True
+20792,Whis,Hybrid,Saiyan Saga,1239,7077,735,Anti-Hero,False
+20793,Goten,Hybrid,Buu Saga,29185491,403151310,210,Hero,False
+20794,Android 18,Frieza Race,Tournament of Power,540725060,14580092562,605,Hero,True
+20795,Majin Buu,Majin,Saiyan Saga,3108,20614,24,Neutral,False
+20796,Vegeta,Saiyan,Broly Movie,348466367,8112703353,580,Villain,False
+20797,Android 17,Hybrid,Saiyan Saga,3903,81036,774,Anti-Hero,False
+20798,Raditz,Hybrid,Saiyan Saga,13842,465934,132,Hero,False
+20799,Android 18,Hybrid,Battle of Gods,688474459,17188110801,355,Anti-Hero,True
+20800,Trunks,Hybrid,Tournament of Power,958460914,17975463700,711,Villain,True
+20801,Vegeta,Hybrid,Cell Saga,917988,18071850,95,Hero,False
+20802,Beerus,Human,Battle of Gods,382561189,5022308209,804,Hero,True
+20803,Majin Buu,Frieza Race,Battle of Gods,486461932,13227341003,506,Hero,False
+20804,Beerus,Android,Battle of Gods,922798171,10072542340,95,Villain,False
+20805,Nappa,Saiyan,Battle of Gods,887240441,40526819125,401,Villain,True
+20806,Gohan,Saiyan,Buu Saga,60114703,861761899,578,Neutral,False
+20807,Yamcha,Human,Buu Saga,5874944,119278453,924,Anti-Hero,False
+20808,Raditz,Saiyan,Buu Saga,23994670,317548909,388,Neutral,True
+20809,Goten,Hybrid,Frieza Saga,286289,2953611,353,Hero,False
+20810,Bulma,Human,Battle of Gods,473610799,19129173333,324,Villain,False
+20811,Krillin,Human,Buu Saga,14586575,678585078,717,Villain,True
+20812,Nappa,Saiyan,Frieza Saga,444248,985793,474,Villain,True
+20813,Bulma,Human,Broly Movie,58409976,975485888,855,Hero,True
+20814,Krillin,Human,Broly Movie,801405216,17412639163,978,Hero,True
+20815,Raditz,Hybrid,Frieza Saga,403734,10450163,374,Neutral,False
+20816,Bardock,Hybrid,Saiyan Saga,4767,211628,892,Neutral,False
+20817,Trunks,Hybrid,Frieza Saga,149160,2657147,895,Villain,False
+20818,Bardock,Hybrid,Battle of Gods,111150441,4231051419,547,Anti-Hero,False
+20819,Goku,Hybrid,Frieza Saga,181170,4423961,681,Neutral,True
+20820,Cell,Android,Frieza Saga,166722,6098881,811,Neutral,True
+20821,Broly,Saiyan,Broly Movie,147986114,5537446117,976,Anti-Hero,True
+20822,Beerus,Frieza Race,Frieza Saga,375518,12354277,48,Hero,False
+20823,Krillin,Human,Broly Movie,391328396,16318564063,363,Villain,False
+20824,Android 18,Angel,Battle of Gods,903577589,27088977400,399,Villain,False
+20825,Piccolo,Namekian,Buu Saga,29574753,617417299,507,Villain,True
+20826,Broly,Hybrid,Broly Movie,796196119,31778413417,322,Anti-Hero,True
+20827,Whis,Frieza Race,Frieza Saga,406935,15885951,782,Neutral,True
+20828,Krillin,Human,Battle of Gods,858385598,13099766284,992,Hero,False
+20829,Vegeta,Saiyan,Buu Saga,6350609,79943550,274,Neutral,True
+20830,Bulma,Human,Broly Movie,725844300,1638644505,82,Hero,False
+20831,Trunks,Saiyan,Broly Movie,49267101,121339418,493,Hero,False
+20832,Whis,Frieza Race,Broly Movie,410425027,14875595976,81,Hero,True
+20833,Bulma,Human,Saiyan Saga,7296,31321,720,Villain,False
+20834,Cell,Android,Broly Movie,458322434,9409838003,817,Anti-Hero,True
+20835,Krillin,Human,Broly Movie,940257908,14182799537,725,Villain,False
+20836,Frieza,Frieza Race,Battle of Gods,696649126,32256723492,438,Neutral,False
+20837,Majin Buu,Angel,Saiyan Saga,11106,288600,799,Neutral,True
+20838,Bardock,Hybrid,Battle of Gods,198905392,2154375191,173,Villain,False
+20839,Cell,God,Buu Saga,78353600,3064031855,414,Villain,True
+20840,Whis,Namekian,Saiyan Saga,5294,264053,25,Neutral,False
+20841,Trunks,Hybrid,Frieza Saga,368881,15433056,880,Anti-Hero,False
+20842,Whis,Frieza Race,Frieza Saga,202021,420805,901,Neutral,False
+20843,Bulma,Human,Broly Movie,477923344,8518641127,437,Villain,False
+20844,Goku,Saiyan,Frieza Saga,350733,14592959,913,Anti-Hero,True
+20845,Android 17,Android,Buu Saga,76626904,1721294465,592,Villain,True
+20846,Broly,Hybrid,Cell Saga,4390527,139027132,109,Anti-Hero,True
+20847,Broly,Saiyan,Battle of Gods,167475466,5716071217,395,Hero,False
+20848,Goten,Saiyan,Buu Saga,48882403,1263252848,935,Villain,False
+20849,Krillin,Human,Buu Saga,5310809,23725664,144,Villain,True
+20850,Gohan,Saiyan,Tournament of Power,515868453,25787085763,353,Hero,True
+20851,Gohan,Saiyan,Saiyan Saga,3350,75873,529,Neutral,False
+20852,Raditz,Hybrid,Tournament of Power,101477372,4546474693,568,Hero,False
+20853,Android 17,Hybrid,Frieza Saga,504740,24479127,611,Villain,True
+20854,Cell,Hybrid,Frieza Saga,229919,434051,579,Villain,True
+20855,Bardock,Hybrid,Saiyan Saga,1212,5617,532,Neutral,False
+20856,Gohan,Hybrid,Buu Saga,22893690,201195602,464,Anti-Hero,True
+20857,Raditz,Saiyan,Buu Saga,17175800,727279098,736,Hero,False
+20858,Trunks,Hybrid,Cell Saga,1880311,78139859,118,Neutral,True
+20859,Beerus,Human,Battle of Gods,57078439,711163238,373,Villain,True
+20860,Bardock,Hybrid,Cell Saga,1493168,18172341,359,Neutral,True
+20861,Android 18,Saiyan,Battle of Gods,128390797,5287905228,693,Anti-Hero,True
+20862,Trunks,Hybrid,Buu Saga,68257630,2422932676,498,Villain,True
+20863,Goku,Saiyan,Tournament of Power,815443024,23227757297,770,Hero,False
+20864,Vegeta,Hybrid,Battle of Gods,643093598,18981236157,666,Anti-Hero,True
+20865,Goku,Hybrid,Battle of Gods,427428494,20703748641,78,Anti-Hero,False
+20866,Jiren,Majin,Tournament of Power,345914058,15791310903,285,Neutral,False
+20867,Vegeta,Saiyan,Tournament of Power,266147262,9930262313,563,Anti-Hero,True
+20868,Broly,Hybrid,Tournament of Power,226281769,7754101267,283,Neutral,False
+20869,Gohan,Hybrid,Saiyan Saga,14624,347148,956,Hero,False
+20870,Goten,Saiyan,Battle of Gods,241765412,2243931941,784,Neutral,True
+20871,Goku,Hybrid,Buu Saga,20750396,157874466,637,Anti-Hero,False
+20872,Piccolo,Namekian,Frieza Saga,521650,11438793,671,Hero,True
+20873,Tien,Human,Broly Movie,490551696,19000804881,84,Neutral,True
+20874,Yamcha,Human,Cell Saga,206492,3965435,750,Anti-Hero,True
+20875,Jiren,Majin,Frieza Saga,184634,5280456,958,Hero,False
+20876,Krillin,Human,Tournament of Power,652247601,17208180497,178,Hero,False
+20877,Krillin,Human,Saiyan Saga,11125,154193,596,Villain,False
+20878,Gohan,Saiyan,Tournament of Power,308610699,14419078796,139,Anti-Hero,True
+20879,Tien,Human,Frieza Saga,456900,20647606,997,Hero,False
+20880,Android 18,Hybrid,Cell Saga,4841287,83060569,488,Anti-Hero,True
+20881,Bardock,Saiyan,Saiyan Saga,3452,72323,562,Hero,False
+20882,Cell,Hybrid,Battle of Gods,720921965,10450257114,544,Neutral,True
+20883,Krillin,Human,Battle of Gods,37666531,776997369,18,Neutral,True
+20884,Cell,Human,Frieza Saga,244625,7261369,239,Neutral,False
+20885,Vegeta,Saiyan,Frieza Saga,171098,3421525,988,Hero,False
+20886,Cell,Frieza Race,Cell Saga,1993797,82122798,530,Neutral,True
+20887,Krillin,Human,Frieza Saga,375217,8839757,816,Villain,False
+20888,Beerus,Android,Battle of Gods,973747941,14842868394,946,Anti-Hero,False
+20889,Piccolo,Namekian,Frieza Saga,307406,1337594,496,Anti-Hero,False
+20890,Goku,Saiyan,Saiyan Saga,17067,518830,571,Anti-Hero,False
+20891,Bulma,Human,Buu Saga,28712012,1026172052,68,Villain,False
+20892,Cell,God,Frieza Saga,216401,4564347,236,Neutral,False
+20893,Krillin,Human,Cell Saga,1940263,84049718,260,Neutral,True
+20894,Bulma,Human,Buu Saga,19822390,132795028,809,Villain,True
+20895,Vegeta,Saiyan,Cell Saga,2415924,55554824,741,Neutral,False
+20896,Piccolo,Namekian,Tournament of Power,704097306,33133106953,879,Neutral,True
+20897,Yamcha,Human,Tournament of Power,705981040,5446065150,390,Hero,True
+20898,Whis,Angel,Cell Saga,4989822,45181371,909,Neutral,True
+20899,Tien,Human,Broly Movie,736538966,34930077931,808,Villain,True
+20900,Android 18,Saiyan,Battle of Gods,316532447,4933054339,10,Neutral,False
+20901,Cell,Majin,Broly Movie,990442188,3541248239,670,Hero,True
+20902,Android 17,Human,Buu Saga,46938048,921761157,795,Villain,True
+20903,Piccolo,Namekian,Battle of Gods,715612826,10692411714,295,Neutral,True
+20904,Majin Buu,Namekian,Buu Saga,71988682,9001,43,Villain,True
+20905,Tien,Human,Buu Saga,35131235,97196425,429,Hero,True
+20906,Nappa,Saiyan,Cell Saga,357012,7602226,555,Hero,False
+20907,Nappa,Hybrid,Saiyan Saga,3810,70739,871,Hero,False
+20908,Nappa,Hybrid,Frieza Saga,344045,12015982,739,Hero,False
+20909,Jiren,Hybrid,Saiyan Saga,12899,439639,205,Hero,True
+20910,Cell,God,Frieza Saga,22770,337905,162,Anti-Hero,False
+20911,Broly,Hybrid,Buu Saga,13986200,9001,73,Neutral,False
+20912,Tien,Human,Buu Saga,26922311,252736634,495,Neutral,True
+20913,Majin Buu,God,Buu Saga,26736271,533245052,512,Neutral,False
+20914,Majin Buu,Hybrid,Broly Movie,624293144,6231807051,269,Neutral,False
+20915,Gohan,Saiyan,Buu Saga,40598916,804783136,635,Hero,False
+20916,Goten,Hybrid,Tournament of Power,230258076,1898160249,128,Hero,False
+20917,Whis,Android,Saiyan Saga,7665,242112,123,Hero,False
+20918,Nappa,Saiyan,Saiyan Saga,6999,45628,785,Villain,True
+20919,Bulma,Human,Buu Saga,68313997,1423889656,686,Anti-Hero,True
+20920,Jiren,Frieza Race,Frieza Saga,201043,7750852,972,Anti-Hero,True
+20921,Tien,Human,Buu Saga,31727144,9001,779,Neutral,False
+20922,Vegeta,Hybrid,Broly Movie,457657556,10219089039,367,Hero,False
+20923,Tien,Human,Broly Movie,973803926,9001,559,Neutral,True
+20924,Majin Buu,Human,Tournament of Power,37534649,692043212,327,Neutral,False
+20925,Frieza,Frieza Race,Battle of Gods,838191918,30723270415,507,Anti-Hero,True
+20926,Goten,Saiyan,Cell Saga,3602592,46111400,839,Neutral,False
+20927,Krillin,Human,Battle of Gods,566728872,25222340447,530,Neutral,True
+20928,Yamcha,Human,Buu Saga,68559209,1566955338,6,Hero,False
+20929,Cell,Frieza Race,Frieza Saga,434517,10290608,65,Hero,False
+20930,Android 18,God,Frieza Saga,443291,2984721,958,Neutral,False
+20931,Android 18,Saiyan,Buu Saga,63822363,1926978642,211,Anti-Hero,True
+20932,Android 18,Android,Cell Saga,3444051,7404274,470,Neutral,False
+20933,Jiren,Namekian,Saiyan Saga,17235,524233,831,Villain,True
+20934,Nappa,Saiyan,Broly Movie,351853619,1552396522,172,Hero,False
+20935,Krillin,Human,Cell Saga,970723,25261606,900,Villain,True
+20936,Goku,Hybrid,Tournament of Power,549693701,18221813629,530,Hero,True
+20937,Gohan,Hybrid,Cell Saga,1721872,80401041,769,Hero,True
+20938,Cell,Majin,Frieza Saga,234177,1274165,687,Hero,True
+20939,Tien,Human,Battle of Gods,42551946,323746982,450,Neutral,True
+20940,Bardock,Hybrid,Battle of Gods,354634608,14424586232,141,Hero,False
+20941,Nappa,Saiyan,Tournament of Power,352716647,8422948955,619,Villain,True
+20942,Android 18,Human,Tournament of Power,188503108,8888225042,916,Villain,True
+20943,Frieza,Frieza Race,Battle of Gods,804514997,13338526600,548,Anti-Hero,True
+20944,Yamcha,Human,Battle of Gods,599987097,16296699070,71,Villain,True
+20945,Trunks,Saiyan,Saiyan Saga,3270,103476,627,Villain,True
+20946,Majin Buu,Majin,Cell Saga,4087003,89904084,585,Neutral,True
+20947,Gohan,Hybrid,Broly Movie,511514413,4066563225,377,Neutral,False
+20948,Android 17,Android,Frieza Saga,333339,11813583,918,Villain,True
+20949,Cell,Namekian,Battle of Gods,461926142,15456525993,628,Hero,False
+20950,Bulma,Human,Buu Saga,14592622,532229670,21,Villain,False
+20951,Trunks,Hybrid,Frieza Saga,199214,5090080,460,Hero,False
+20952,Raditz,Saiyan,Tournament of Power,59583519,2060880451,182,Villain,False
+20953,Majin Buu,Namekian,Tournament of Power,739626707,10020809353,554,Anti-Hero,False
+20954,Yamcha,Human,Saiyan Saga,5160,100376,256,Anti-Hero,True
+20955,Broly,Hybrid,Broly Movie,253672099,1121525475,10,Neutral,True
+20956,Piccolo,Namekian,Buu Saga,59309876,1519433000,21,Hero,False
+20957,Yamcha,Human,Frieza Saga,162059,1824090,341,Neutral,True
+20958,Majin Buu,Namekian,Battle of Gods,387704862,4843127758,92,Hero,False
+20959,Piccolo,Namekian,Buu Saga,8908571,385956126,385,Villain,False
+20960,Goten,Hybrid,Buu Saga,61712613,1368226762,807,Neutral,False
+20961,Goku,Saiyan,Saiyan Saga,9892,471741,737,Neutral,True
+20962,Nappa,Hybrid,Saiyan Saga,17388,702352,206,Hero,False
+20963,Goten,Saiyan,Cell Saga,1939978,9835725,688,Neutral,False
+20964,Goku,Hybrid,Cell Saga,1911085,84853334,885,Hero,False
+20965,Goten,Hybrid,Battle of Gods,38564644,963281405,197,Anti-Hero,False
+20966,Raditz,Hybrid,Buu Saga,49730850,2335279175,248,Villain,True
+20967,Yamcha,Human,Saiyan Saga,8586,349077,166,Neutral,False
+20968,Whis,Saiyan,Battle of Gods,956734569,46111865434,396,Anti-Hero,False
+20969,Trunks,Hybrid,Cell Saga,2407390,100295738,663,Villain,False
+20970,Vegeta,Hybrid,Saiyan Saga,13953,490384,537,Hero,True
+20971,Android 18,Angel,Frieza Saga,281332,9977340,357,Hero,False
+20972,Yamcha,Human,Cell Saga,3392086,161448915,190,Anti-Hero,False
+20973,Tien,Human,Buu Saga,49773106,721923462,826,Neutral,False
+20974,Gohan,Hybrid,Buu Saga,51998903,1437296462,91,Neutral,False
+20975,Gohan,Hybrid,Tournament of Power,680801211,28615381113,96,Hero,True
+20976,Trunks,Hybrid,Saiyan Saga,11851,429978,458,Villain,False
+20977,Krillin,Human,Buu Saga,15002831,175128648,722,Villain,False
+20978,Piccolo,Namekian,Broly Movie,683114731,31129807634,285,Hero,True
+20979,Goten,Hybrid,Buu Saga,37615629,1844015486,389,Anti-Hero,False
+20980,Cell,Angel,Cell Saga,2795111,49129610,142,Hero,True
+20981,Goku,Saiyan,Cell Saga,2452837,116601097,930,Neutral,True
+20982,Vegeta,Saiyan,Cell Saga,1374341,46500260,589,Neutral,False
+20983,Tien,Human,Buu Saga,21775552,423810446,414,Hero,True
+20984,Krillin,Human,Saiyan Saga,4321,61453,918,Anti-Hero,True
+20985,Beerus,Namekian,Broly Movie,461074169,9892196268,613,Anti-Hero,True
+20986,Beerus,Frieza Race,Broly Movie,664638416,19968695378,651,Neutral,True
+20987,Frieza,Frieza Race,Saiyan Saga,6791,248631,650,Anti-Hero,False
+20988,Broly,Saiyan,Tournament of Power,442440248,17588584649,482,Anti-Hero,False
+20989,Vegeta,Saiyan,Saiyan Saga,16535,310022,554,Villain,True
+20990,Yamcha,Human,Buu Saga,61664743,2931269794,799,Hero,False
+20991,Raditz,Hybrid,Saiyan Saga,12123,387217,659,Hero,True
+20992,Bardock,Hybrid,Saiyan Saga,15590,304607,44,Anti-Hero,False
+20993,Cell,Namekian,Battle of Gods,549112044,25392211238,143,Hero,True
+20994,Android 17,Saiyan,Cell Saga,460370,9895226,836,Villain,True
+20995,Piccolo,Namekian,Buu Saga,5472310,216797529,132,Neutral,False
+20996,Goten,Hybrid,Battle of Gods,389671200,1822460334,155,Anti-Hero,False
+20997,Jiren,Namekian,Frieza Saga,173490,5497028,124,Anti-Hero,False
+20998,Whis,Human,Frieza Saga,154123,3877774,999,Villain,True
+20999,Piccolo,Namekian,Buu Saga,32508865,742134580,280,Neutral,True
+21000,Broly,Hybrid,Saiyan Saga,15504,619695,741,Anti-Hero,False
+21001,Android 17,God,Cell Saga,2734034,133477080,210,Hero,False
+21002,Frieza,Frieza Race,Battle of Gods,827199997,39878325172,483,Villain,False
+21003,Krillin,Human,Saiyan Saga,3050,80643,272,Anti-Hero,True
+21004,Jiren,Human,Buu Saga,46202230,712311704,727,Villain,True
+21005,Raditz,Saiyan,Broly Movie,261401834,5373702875,957,Hero,False
+21006,Raditz,Hybrid,Saiyan Saga,15276,601006,351,Anti-Hero,True
+21007,Android 17,Human,Tournament of Power,178431366,3115839588,172,Hero,False
+21008,Goten,Hybrid,Buu Saga,76682329,1306035587,782,Anti-Hero,False
+21009,Goten,Hybrid,Broly Movie,247949451,4332852132,662,Hero,True
+21010,Android 17,God,Frieza Saga,425403,17035614,311,Villain,True
+21011,Cell,Android,Buu Saga,89303584,3188433648,508,Anti-Hero,True
+21012,Android 18,Angel,Tournament of Power,136939593,5704488426,135,Villain,False
+21013,Beerus,Angel,Saiyan Saga,11906,119583,125,Hero,True
+21014,Tien,Human,Tournament of Power,398702942,2103451300,511,Hero,False
+21015,Broly,Hybrid,Buu Saga,13806957,90763850,369,Neutral,False
+21016,Nappa,Hybrid,Saiyan Saga,15975,595802,652,Neutral,False
+21017,Majin Buu,Android,Frieza Saga,288161,6709918,44,Villain,True
+21018,Android 18,Angel,Saiyan Saga,1471,64196,113,Villain,False
+21019,Jiren,Namekian,Buu Saga,57933620,544442867,757,Hero,False
+21020,Gohan,Hybrid,Saiyan Saga,17525,133799,501,Hero,False
+21021,Raditz,Hybrid,Cell Saga,1415123,30188597,918,Neutral,True
+21022,Android 17,Majin,Tournament of Power,247263402,1436577359,614,Neutral,False
+21023,Yamcha,Human,Battle of Gods,318481417,11233818741,7,Hero,False
+21024,Trunks,Hybrid,Broly Movie,45208677,1506119594,853,Hero,True
+21025,Beerus,Majin,Frieza Saga,192674,6159628,307,Hero,True
+21026,Beerus,God,Saiyan Saga,12410,212666,229,Anti-Hero,True
+21027,Frieza,Frieza Race,Saiyan Saga,5937,225909,238,Hero,False
+21028,Yamcha,Human,Saiyan Saga,5822,17155,745,Anti-Hero,True
+21029,Android 17,Angel,Saiyan Saga,7549,273954,91,Villain,False
+21030,Android 18,Hybrid,Frieza Saga,254629,1714679,509,Villain,False
+21031,Android 17,Android,Cell Saga,2754985,129263549,671,Neutral,True
+21032,Goku,Saiyan,Cell Saga,3632823,16392716,474,Neutral,True
+21033,Raditz,Saiyan,Saiyan Saga,9079,249760,702,Anti-Hero,False
+21034,Piccolo,Namekian,Saiyan Saga,8295,16567,84,Anti-Hero,False
+21035,Cell,Saiyan,Saiyan Saga,10835,345699,355,Anti-Hero,True
+21036,Android 18,God,Broly Movie,448876262,10841770593,440,Anti-Hero,False
+21037,Nappa,Saiyan,Battle of Gods,742326854,1653470393,690,Villain,False
+21038,Goten,Saiyan,Saiyan Saga,2662,63206,10,Anti-Hero,False
+21039,Android 18,Frieza Race,Tournament of Power,237288705,11685921727,580,Neutral,True
+21040,Krillin,Human,Tournament of Power,403635266,20033546804,81,Villain,True
+21041,Bulma,Human,Broly Movie,848926849,24603532378,794,Hero,False
+21042,Goku,Hybrid,Cell Saga,1533062,43748044,582,Neutral,True
+21043,Cell,Angel,Battle of Gods,404492341,928505719,579,Hero,False
+21044,Android 17,Human,Saiyan Saga,11948,110248,441,Anti-Hero,True
+21045,Frieza,Frieza Race,Broly Movie,812342106,15602412997,939,Villain,True
+21046,Cell,Human,Tournament of Power,243508476,8676470101,710,Anti-Hero,True
+21047,Raditz,Hybrid,Frieza Saga,430516,897726,458,Neutral,False
+21048,Majin Buu,Frieza Race,Frieza Saga,14316,496395,902,Neutral,True
+21049,Goten,Hybrid,Buu Saga,70242823,576060524,261,Villain,True
+21050,Jiren,Android,Broly Movie,473663127,12409472423,522,Anti-Hero,False
+21051,Krillin,Human,Battle of Gods,150289171,2446247100,211,Neutral,False
+21052,Nappa,Hybrid,Buu Saga,86442263,3730034110,639,Anti-Hero,True
+21053,Broly,Hybrid,Cell Saga,4782853,171295529,52,Hero,False
+21054,Bulma,Human,Battle of Gods,38011161,466787812,164,Hero,False
+21055,Android 18,Majin,Buu Saga,74058152,2958191973,162,Villain,False
+21056,Majin Buu,Hybrid,Tournament of Power,880514927,33766349828,82,Anti-Hero,False
+21057,Android 18,Android,Saiyan Saga,4927,123647,864,Hero,True
+21058,Nappa,Saiyan,Frieza Saga,11491,267178,883,Neutral,True
+21059,Bardock,Hybrid,Cell Saga,1815350,75597678,62,Neutral,False
+21060,Whis,Human,Broly Movie,949914683,3198589225,951,Anti-Hero,True
+21061,Piccolo,Namekian,Broly Movie,908734688,28660962190,890,Neutral,True
+21062,Tien,Human,Buu Saga,88000065,2251429775,309,Hero,True
+21063,Yamcha,Human,Saiyan Saga,12358,552029,966,Villain,True
+21064,Trunks,Saiyan,Broly Movie,465115263,2088031345,855,Villain,False
+21065,Whis,Frieza Race,Frieza Saga,370421,5824696,307,Anti-Hero,True
+21066,Tien,Human,Buu Saga,54003493,916573089,567,Neutral,False
+21067,Bulma,Human,Battle of Gods,124665909,5716701900,932,Neutral,False
+21068,Broly,Saiyan,Cell Saga,4771709,63587079,371,Neutral,False
+21069,Android 17,God,Cell Saga,1858734,81054734,377,Villain,False
+21070,Whis,Human,Broly Movie,173313118,3968494396,86,Neutral,True
+21071,Krillin,Human,Battle of Gods,350257716,11746144273,124,Anti-Hero,False
+21072,Android 18,Saiyan,Cell Saga,4726402,221499300,190,Hero,True
+21073,Goten,Saiyan,Battle of Gods,800216720,3965720155,153,Villain,False
+21074,Yamcha,Human,Buu Saga,23258505,737616473,965,Hero,True
+21075,Nappa,Saiyan,Battle of Gods,577755627,7302504834,626,Anti-Hero,True
+21076,Jiren,Majin,Broly Movie,189084376,5967561491,614,Anti-Hero,False
+21077,Cell,Frieza Race,Saiyan Saga,15657,619783,56,Neutral,True
+21078,Bulma,Human,Battle of Gods,784428862,19376510683,218,Neutral,False
+21079,Krillin,Human,Saiyan Saga,7228,282894,103,Hero,False
+21080,Bulma,Human,Tournament of Power,449288943,17005057423,193,Anti-Hero,False
+21081,Vegeta,Saiyan,Broly Movie,725274384,17304070521,170,Hero,True
+21082,Goku,Saiyan,Buu Saga,76004047,1970675717,952,Neutral,True
+21083,Piccolo,Namekian,Cell Saga,4612884,68847475,785,Hero,False
+21084,Beerus,God,Broly Movie,447876452,18664787878,288,Hero,True
+21085,Yamcha,Human,Battle of Gods,243468916,10666026092,36,Villain,False
+21086,Trunks,Hybrid,Cell Saga,4532127,154670316,179,Villain,True
+21087,Nappa,Hybrid,Frieza Saga,198289,5681464,224,Anti-Hero,True
+21088,Whis,Frieza Race,Cell Saga,3146730,97620814,522,Anti-Hero,False
+21089,Frieza,Frieza Race,Saiyan Saga,4910,72509,113,Neutral,True
+21090,Android 18,Saiyan,Broly Movie,96820241,808229655,653,Neutral,True
+21091,Raditz,Saiyan,Battle of Gods,448881177,8408750991,641,Neutral,False
+21092,Majin Buu,Saiyan,Tournament of Power,758165141,12518058567,132,Hero,True
+21093,Goku,Hybrid,Cell Saga,511337,5386025,73,Villain,False
+21094,Beerus,God,Broly Movie,926727315,44465444188,394,Hero,False
+21095,Whis,Hybrid,Buu Saga,10205354,448759289,775,Neutral,False
+21096,Beerus,Majin,Saiyan Saga,4736,142594,991,Hero,False
+21097,Android 18,Human,Frieza Saga,322174,2906742,91,Anti-Hero,False
+21098,Android 17,Saiyan,Cell Saga,3833048,137021864,826,Hero,True
+21099,Gohan,Saiyan,Tournament of Power,344465910,9391643562,327,Neutral,False
+21100,Tien,Human,Saiyan Saga,17427,754860,814,Villain,True
+21101,Broly,Hybrid,Tournament of Power,61305742,1803748338,353,Anti-Hero,False
+21102,Goku,Saiyan,Frieza Saga,308244,7508715,194,Neutral,False
+21103,Tien,Human,Buu Saga,32345208,1459698983,179,Hero,True
+21104,Jiren,Namekian,Frieza Saga,6179,191953,63,Neutral,False
+21105,Krillin,Human,Tournament of Power,905497910,24349196235,502,Villain,False
+21106,Nappa,Saiyan,Buu Saga,62135488,2622789092,957,Neutral,False
+21107,Piccolo,Namekian,Broly Movie,51424868,828835365,200,Villain,False
+21108,Jiren,Saiyan,Saiyan Saga,6400,18918,394,Anti-Hero,True
+21109,Broly,Hybrid,Buu Saga,34297821,1423897676,279,Villain,False
+21110,Goku,Hybrid,Battle of Gods,45142591,1765809762,277,Neutral,False
+21111,Raditz,Hybrid,Battle of Gods,650502994,1328826561,588,Villain,True
+21112,Goten,Saiyan,Frieza Saga,490085,18843967,45,Neutral,False
+21113,Yamcha,Human,Tournament of Power,788918220,17724123483,447,Villain,True
+21114,Frieza,Frieza Race,Tournament of Power,272851406,11049736689,622,Villain,True
+21115,Goku,Saiyan,Frieza Saga,25332,350985,65,Anti-Hero,False
+21116,Gohan,Saiyan,Buu Saga,53738616,2293646051,204,Hero,True
+21117,Tien,Human,Battle of Gods,788887601,6660640179,442,Anti-Hero,False
+21118,Majin Buu,Human,Frieza Saga,221977,9464208,856,Anti-Hero,True
+21119,Yamcha,Human,Battle of Gods,786842105,32223998571,79,Anti-Hero,True
+21120,Whis,Majin,Buu Saga,6810859,202597452,466,Neutral,False
+21121,Jiren,God,Frieza Saga,151277,1447177,448,Anti-Hero,False
+21122,Tien,Human,Saiyan Saga,2026,21705,370,Neutral,True
+21123,Piccolo,Namekian,Buu Saga,65539051,1789249980,303,Neutral,False
+21124,Piccolo,Namekian,Tournament of Power,522981698,7535184656,641,Villain,True
+21125,Bardock,Saiyan,Cell Saga,4873056,179518949,282,Villain,False
+21126,Vegeta,Hybrid,Frieza Saga,335246,12961790,152,Neutral,True
+21127,Vegeta,Saiyan,Tournament of Power,620556918,12488615821,728,Anti-Hero,True
+21128,Piccolo,Namekian,Frieza Saga,428192,2993872,71,Neutral,True
+21129,Goten,Saiyan,Broly Movie,554751877,10675758880,378,Anti-Hero,False
+21130,Trunks,Saiyan,Broly Movie,738605082,34357053076,363,Anti-Hero,True
+21131,Gohan,Hybrid,Broly Movie,910095042,19889712996,465,Villain,True
+21132,Beerus,Hybrid,Buu Saga,33315611,142095582,230,Neutral,False
+21133,Beerus,Namekian,Saiyan Saga,3067,92126,602,Villain,True
+21134,Tien,Human,Tournament of Power,307760005,5315356671,975,Hero,True
+21135,Vegeta,Saiyan,Cell Saga,1195125,46099212,740,Villain,True
+21136,Whis,Saiyan,Frieza Saga,503479,23704165,945,Villain,False
+21137,Goten,Hybrid,Frieza Saga,161192,5035262,816,Hero,True
+21138,Krillin,Human,Battle of Gods,532649882,25647605253,6,Villain,False
+21139,Krillin,Human,Broly Movie,123319534,2744671145,951,Neutral,True
+21140,Android 18,Majin,Buu Saga,78740773,2365222310,93,Neutral,False
+21141,Nappa,Saiyan,Buu Saga,83532844,508402157,307,Villain,True
+21142,Gohan,Hybrid,Buu Saga,50042668,1770265080,833,Villain,False
+21143,Goku,Saiyan,Broly Movie,791036992,13045695769,184,Neutral,True
+21144,Majin Buu,Angel,Frieza Saga,237616,11066806,845,Anti-Hero,False
+21145,Frieza,Frieza Race,Buu Saga,88884277,871290639,511,Neutral,False
+21146,Bulma,Human,Saiyan Saga,2685,110086,625,Villain,True
+21147,Beerus,Saiyan,Tournament of Power,540435472,19481366697,899,Villain,True
+21148,Bardock,Hybrid,Frieza Saga,463062,10311485,605,Neutral,False
+21149,Raditz,Hybrid,Tournament of Power,663642092,27726507115,821,Neutral,True
+21150,Nappa,Saiyan,Cell Saga,4006060,169026893,293,Villain,False
+21151,Frieza,Frieza Race,Cell Saga,900468,2029665,945,Hero,True
+21152,Whis,Human,Frieza Saga,101255,4525908,223,Anti-Hero,False
+21153,Krillin,Human,Frieza Saga,30356,1395007,434,Hero,False
+21154,Krillin,Human,Saiyan Saga,8760,211566,338,Anti-Hero,True
+21155,Broly,Hybrid,Saiyan Saga,13725,256385,41,Anti-Hero,False
+21156,Goten,Hybrid,Tournament of Power,937050377,9001,99,Anti-Hero,True
+21157,Nappa,Hybrid,Tournament of Power,395547421,9065881876,526,Hero,True
+21158,Android 18,Majin,Battle of Gods,525327332,23189900939,837,Villain,True
+21159,Whis,Saiyan,Frieza Saga,121350,347615,366,Neutral,False
+21160,Broly,Saiyan,Battle of Gods,896508584,32662075166,157,Hero,False
+21161,Tien,Human,Broly Movie,955215947,11449760942,655,Villain,True
+21162,Beerus,Saiyan,Cell Saga,3264654,161995445,639,Hero,False
+21163,Beerus,Saiyan,Saiyan Saga,17636,70618,821,Villain,True
+21164,Trunks,Hybrid,Broly Movie,630201167,22706041561,998,Villain,True
+21165,Krillin,Human,Buu Saga,86161717,511980173,52,Neutral,True
+21166,Beerus,Saiyan,Cell Saga,526514,2321314,512,Neutral,True
+21167,Gohan,Saiyan,Tournament of Power,960610238,14828775925,698,Neutral,False
+21168,Jiren,Human,Tournament of Power,986993962,26223971712,928,Hero,False
+21169,Cell,Frieza Race,Tournament of Power,171301764,5996558040,77,Anti-Hero,True
+21170,Gohan,Saiyan,Battle of Gods,638566373,28215130393,960,Villain,False
+21171,Jiren,Majin,Broly Movie,39391606,343059288,753,Neutral,True
+21172,Bulma,Human,Battle of Gods,797765529,33454606540,180,Villain,False
+21173,Vegeta,Hybrid,Buu Saga,24731474,562563035,982,Anti-Hero,False
+21174,Android 18,Namekian,Saiyan Saga,16708,538622,159,Hero,False
+21175,Jiren,Namekian,Tournament of Power,295516345,2786764760,817,Anti-Hero,False
+21176,Android 17,Angel,Cell Saga,489508,3980894,65,Hero,False
+21177,Frieza,Frieza Race,Frieza Saga,265424,6071836,566,Hero,True
+21178,Nappa,Hybrid,Battle of Gods,104731418,1650773455,435,Villain,False
+21179,Bulma,Human,Tournament of Power,246637940,4480785775,347,Hero,True
+21180,Tien,Human,Tournament of Power,272839086,11604451802,406,Anti-Hero,True
+21181,Gohan,Saiyan,Buu Saga,19052341,747414945,878,Villain,True
+21182,Broly,Hybrid,Cell Saga,1398226,15051654,953,Hero,True
+21183,Cell,Hybrid,Battle of Gods,521787291,7445697331,332,Hero,False
+21184,Broly,Saiyan,Buu Saga,36734125,960586979,26,Anti-Hero,True
+21185,Nappa,Hybrid,Broly Movie,399353032,15807541095,648,Villain,True
+21186,Frieza,Frieza Race,Saiyan Saga,2890,131577,403,Hero,False
+21187,Goku,Saiyan,Tournament of Power,650957388,2235972540,64,Neutral,True
+21188,Jiren,Saiyan,Saiyan Saga,12407,462845,465,Neutral,True
+21189,Cell,Angel,Battle of Gods,175168518,7624706221,55,Hero,False
+21190,Gohan,Saiyan,Broly Movie,951458881,13486430878,554,Hero,True
+21191,Raditz,Saiyan,Frieza Saga,428033,3592808,80,Villain,False
+21192,Vegeta,Saiyan,Battle of Gods,200741920,7960811633,926,Anti-Hero,True
+21193,Raditz,Saiyan,Battle of Gods,211326892,3066793944,294,Anti-Hero,False
+21194,Goten,Saiyan,Buu Saga,34398848,1520105718,492,Neutral,True
+21195,Krillin,Human,Frieza Saga,429201,21125175,246,Villain,False
+21196,Bulma,Human,Saiyan Saga,14413,151109,555,Villain,True
+21197,Whis,Android,Cell Saga,317387,7656596,961,Neutral,False
+21198,Beerus,Frieza Race,Broly Movie,783879876,25681257668,186,Hero,False
+21199,Vegeta,Saiyan,Battle of Gods,328494756,11306450472,361,Neutral,True
+21200,Piccolo,Namekian,Tournament of Power,800588364,4399809543,629,Villain,False
+21201,Yamcha,Human,Battle of Gods,362264215,12535188673,129,Hero,False
+21202,Cell,Majin,Saiyan Saga,13060,240678,723,Anti-Hero,False
+21203,Broly,Hybrid,Cell Saga,1903050,76376849,410,Anti-Hero,False
+21204,Bardock,Hybrid,Broly Movie,990182164,38281816573,626,Villain,False
+21205,Tien,Human,Frieza Saga,65499,1042726,95,Anti-Hero,True
+21206,Nappa,Saiyan,Tournament of Power,230311030,2839125029,655,Villain,False
+21207,Broly,Saiyan,Frieza Saga,367607,10225095,330,Villain,True
+21208,Raditz,Hybrid,Frieza Saga,252132,3905815,345,Hero,False
+21209,Android 17,Angel,Buu Saga,11234308,9001,369,Neutral,False
+21210,Bulma,Human,Tournament of Power,581377282,9001,803,Neutral,False
+21211,Majin Buu,Hybrid,Buu Saga,17960897,662211581,548,Anti-Hero,True
+21212,Broly,Saiyan,Frieza Saga,34070,1686477,263,Hero,True
+21213,Piccolo,Namekian,Saiyan Saga,10988,97452,805,Hero,False
+21214,Android 18,Android,Broly Movie,681219714,14474577373,134,Neutral,True
+21215,Broly,Saiyan,Buu Saga,28780856,78813070,51,Neutral,False
+21216,Gohan,Hybrid,Battle of Gods,706801103,20543791430,546,Hero,True
+21217,Bardock,Hybrid,Buu Saga,84377325,4165930879,795,Neutral,True
+21218,Jiren,Android,Frieza Saga,173429,3203757,598,Anti-Hero,True
+21219,Raditz,Hybrid,Broly Movie,664540161,31114231184,457,Hero,True
+21220,Cell,Namekian,Tournament of Power,945775510,16433708456,200,Villain,True
+21221,Krillin,Human,Battle of Gods,449682662,7074955883,251,Neutral,False
+21222,Beerus,Hybrid,Battle of Gods,386495661,17772040411,222,Hero,False
+21223,Tien,Human,Broly Movie,540146540,13742900540,61,Hero,False
+21224,Piccolo,Namekian,Broly Movie,50930942,2166457283,889,Hero,False
+21225,Goten,Saiyan,Broly Movie,349356876,15120917392,446,Hero,False
+21226,Krillin,Human,Broly Movie,428296601,1519816105,106,Hero,True
+21227,Gohan,Saiyan,Buu Saga,9054681,181986869,266,Villain,False
+21228,Raditz,Hybrid,Broly Movie,733168915,1879137800,753,Hero,False
+21229,Android 18,Frieza Race,Saiyan Saga,1591,13608,61,Villain,False
+21230,Gohan,Hybrid,Cell Saga,3296923,36710446,921,Hero,True
+21231,Majin Buu,Hybrid,Cell Saga,2749768,90693834,258,Hero,True
+21232,Bulma,Human,Cell Saga,3267040,61138848,972,Anti-Hero,False
+21233,Vegeta,Saiyan,Broly Movie,771940073,31551400933,91,Anti-Hero,True
+21234,Krillin,Human,Cell Saga,1534367,61811098,618,Hero,False
+21235,Nappa,Saiyan,Buu Saga,19854297,325843767,904,Hero,False
+21236,Android 17,Frieza Race,Battle of Gods,207897255,2662442729,990,Hero,False
+21237,Android 17,God,Saiyan Saga,1447,3090,216,Villain,False
+21238,Android 17,Namekian,Cell Saga,4257253,54414941,487,Hero,False
+21239,Majin Buu,Saiyan,Battle of Gods,342227716,5553304558,982,Neutral,False
+21240,Goten,Saiyan,Tournament of Power,49112847,1343507437,674,Hero,False
+21241,Bulma,Human,Saiyan Saga,12351,518188,771,Villain,True
+21242,Nappa,Saiyan,Saiyan Saga,14263,177029,213,Villain,True
+21243,Whis,Human,Frieza Saga,200010,3201361,319,Neutral,False
+21244,Bulma,Human,Battle of Gods,308219463,4159930659,688,Anti-Hero,False
+21245,Nappa,Saiyan,Tournament of Power,773487029,16273737565,408,Hero,True
+21246,Majin Buu,Angel,Battle of Gods,956100053,30597306665,237,Anti-Hero,True
+21247,Jiren,Human,Broly Movie,570544488,6677902291,498,Anti-Hero,False
+21248,Goten,Saiyan,Cell Saga,3767901,153923907,350,Neutral,False
+21249,Nappa,Saiyan,Cell Saga,3704664,52735225,753,Anti-Hero,True
+21250,Yamcha,Human,Saiyan Saga,9194,391222,123,Villain,False
+21251,Piccolo,Namekian,Saiyan Saga,3690,52811,486,Villain,True
+21252,Goku,Saiyan,Buu Saga,8665096,230215065,787,Anti-Hero,False
+21253,Bulma,Human,Battle of Gods,988461524,46914937188,968,Villain,True
+21254,Gohan,Hybrid,Tournament of Power,566161948,3540598586,205,Neutral,True
+21255,Android 17,Namekian,Cell Saga,1571432,58171926,348,Anti-Hero,False
+21256,Jiren,Human,Battle of Gods,431016292,21283909908,72,Villain,True
+21257,Vegeta,Saiyan,Broly Movie,900699989,22888896111,508,Hero,False
+21258,Gohan,Hybrid,Buu Saga,44005299,109302667,628,Neutral,False
+21259,Goku,Hybrid,Saiyan Saga,10621,474238,259,Villain,False
+21260,Frieza,Frieza Race,Saiyan Saga,3655,6235,381,Hero,True
+21261,Beerus,Android,Saiyan Saga,11911,579171,594,Hero,False
+21262,Jiren,Majin,Buu Saga,69005491,1602726775,68,Anti-Hero,True
+21263,Android 17,God,Battle of Gods,725223904,28112875099,239,Villain,False
+21264,Yamcha,Human,Broly Movie,903479198,6680160316,514,Hero,False
+21265,Bulma,Human,Broly Movie,584451971,4527169825,922,Anti-Hero,False
+21266,Whis,Human,Battle of Gods,784738230,14631578829,682,Hero,False
+21267,Android 18,Frieza Race,Frieza Saga,420203,11152223,99,Anti-Hero,True
+21268,Vegeta,Saiyan,Buu Saga,82766750,781328857,829,Neutral,True
+21269,Bulma,Human,Buu Saga,14603719,267375093,159,Villain,False
+21270,Android 18,God,Frieza Saga,170943,6043037,258,Hero,False
+21271,Whis,Android,Cell Saga,2012968,43751162,330,Villain,True
+21272,Cell,Majin,Battle of Gods,309200397,9001,164,Villain,True
+21273,Krillin,Human,Broly Movie,71953754,1972600186,486,Neutral,True
+21274,Bulma,Human,Frieza Saga,349975,5512097,164,Anti-Hero,True
+21275,Trunks,Hybrid,Frieza Saga,155166,4891000,370,Anti-Hero,True
+21276,Frieza,Frieza Race,Saiyan Saga,16323,160088,569,Anti-Hero,False
+21277,Trunks,Hybrid,Saiyan Saga,4314,133008,748,Anti-Hero,False
+21278,Bulma,Human,Cell Saga,4152818,115742562,546,Hero,True
+21279,Bardock,Hybrid,Cell Saga,749762,26167661,191,Villain,False
+21280,Bardock,Hybrid,Buu Saga,48379645,1504373285,555,Hero,False
+21281,Piccolo,Namekian,Tournament of Power,840845528,13379980437,354,Anti-Hero,False
+21282,Broly,Saiyan,Broly Movie,418696389,13344126175,374,Hero,True
+21283,Jiren,Android,Tournament of Power,552576993,18196959881,800,Villain,True
+21284,Gohan,Saiyan,Frieza Saga,404711,17010316,50,Anti-Hero,True
+21285,Goten,Saiyan,Battle of Gods,773421959,23294701201,424,Hero,False
+21286,Nappa,Saiyan,Broly Movie,275124121,759825827,396,Neutral,True
+21287,Bulma,Human,Frieza Saga,412221,8741862,821,Hero,False
+21288,Yamcha,Human,Buu Saga,71639906,2751028679,173,Hero,False
+21289,Goku,Hybrid,Tournament of Power,935669001,13255017579,5,Anti-Hero,False
+21290,Krillin,Human,Cell Saga,4546244,18388293,62,Anti-Hero,False
+21291,Nappa,Hybrid,Buu Saga,58124021,1835013560,78,Anti-Hero,True
+21292,Frieza,Frieza Race,Cell Saga,2198742,100302938,299,Neutral,False
+21293,Frieza,Frieza Race,Saiyan Saga,13918,39700,490,Hero,False
+21294,Raditz,Saiyan,Frieza Saga,496266,10418672,732,Villain,False
+21295,Raditz,Hybrid,Broly Movie,563561911,15543909246,893,Neutral,True
+21296,Android 18,Frieza Race,Broly Movie,824483722,1454677051,451,Neutral,True
+21297,Bulma,Human,Broly Movie,321777575,984660833,693,Villain,False
+21298,Goten,Hybrid,Tournament of Power,659589665,20653431077,631,Anti-Hero,True
+21299,Bulma,Human,Saiyan Saga,3188,107396,621,Neutral,True
+21300,Beerus,God,Buu Saga,39837609,163238157,638,Neutral,False
+21301,Piccolo,Namekian,Battle of Gods,197627503,1199410731,590,Neutral,True
+21302,Goten,Hybrid,Frieza Saga,291651,1454790,79,Hero,False
+21303,Beerus,Majin,Broly Movie,204381602,1593364781,936,Villain,False
+21304,Goten,Saiyan,Battle of Gods,164166505,4325046742,23,Hero,False
+21305,Tien,Human,Broly Movie,286576053,13663142082,953,Hero,True
+21306,Nappa,Saiyan,Cell Saga,1483781,17905930,82,Hero,True
+21307,Raditz,Saiyan,Tournament of Power,690209616,21575749368,883,Anti-Hero,True
+21308,Broly,Saiyan,Cell Saga,4760222,35992820,467,Neutral,True
+21309,Gohan,Saiyan,Saiyan Saga,10021,480022,393,Neutral,False
+21310,Cell,Majin,Cell Saga,3751955,104001505,167,Neutral,False
+21311,Frieza,Frieza Race,Buu Saga,5302057,113235250,676,Anti-Hero,True
+21312,Nappa,Hybrid,Cell Saga,2158417,8583009,694,Anti-Hero,False
+21313,Bulma,Human,Broly Movie,30554234,416478533,382,Hero,True
+21314,Bulma,Human,Cell Saga,2198940,9001,137,Anti-Hero,False
+21315,Vegeta,Hybrid,Battle of Gods,125224695,5551739533,685,Neutral,False
+21316,Broly,Hybrid,Saiyan Saga,871,16832,941,Neutral,False
+21317,Piccolo,Namekian,Cell Saga,4574186,177002742,719,Anti-Hero,True
+21318,Beerus,Saiyan,Frieza Saga,156817,5527200,293,Hero,False
+21319,Cell,Frieza Race,Frieza Saga,515556,15085521,513,Hero,True
+21320,Majin Buu,Saiyan,Frieza Saga,310775,12628394,308,Neutral,True
+21321,Vegeta,Saiyan,Tournament of Power,807373869,36758933783,132,Anti-Hero,True
+21322,Jiren,Namekian,Cell Saga,2242758,60130422,119,Villain,True
+21323,Goku,Hybrid,Battle of Gods,553607925,4318978707,298,Hero,False
+21324,Android 17,Human,Broly Movie,814598830,10321436440,674,Neutral,True
+21325,Bulma,Human,Frieza Saga,21198,9001,683,Villain,False
+21326,Whis,Namekian,Cell Saga,4733493,125594838,479,Hero,True
+21327,Gohan,Saiyan,Frieza Saga,502985,9851546,589,Hero,False
+21328,Vegeta,Hybrid,Battle of Gods,535046101,25384698704,296,Neutral,True
+21329,Krillin,Human,Saiyan Saga,13151,521292,680,Hero,True
+21330,Beerus,Android,Tournament of Power,545778668,25320356116,205,Neutral,False
+21331,Jiren,Saiyan,Saiyan Saga,1949,64145,532,Villain,False
+21332,Trunks,Hybrid,Broly Movie,966538715,27131489428,205,Villain,True
+21333,Goten,Hybrid,Battle of Gods,962963571,27975584984,480,Neutral,True
+21334,Android 17,Namekian,Broly Movie,198627326,813074159,620,Neutral,True
+21335,Krillin,Human,Saiyan Saga,10457,73406,569,Neutral,False
+21336,Jiren,Human,Broly Movie,427828238,17400736987,73,Villain,False
+21337,Whis,Android,Tournament of Power,512925184,10939199763,335,Anti-Hero,True
+21338,Android 17,Majin,Battle of Gods,121688436,1990186740,445,Villain,False
+21339,Jiren,Majin,Cell Saga,690905,12205659,526,Hero,True
+21340,Yamcha,Human,Cell Saga,4876133,9001,517,Hero,True
+21341,Jiren,Majin,Saiyan Saga,16243,155392,155,Anti-Hero,False
+21342,Whis,Human,Tournament of Power,534898348,8942479656,398,Anti-Hero,True
+21343,Piccolo,Namekian,Cell Saga,2130334,76970576,902,Villain,True
+21344,Krillin,Human,Battle of Gods,603400673,26471799245,462,Anti-Hero,False
+21345,Beerus,Frieza Race,Buu Saga,10944894,107081720,68,Hero,True
+21346,Beerus,Frieza Race,Battle of Gods,817942480,13953547247,9,Neutral,False
+21347,Goten,Saiyan,Battle of Gods,735603393,22896411163,64,Villain,True
+21348,Cell,Saiyan,Saiyan Saga,6279,132764,405,Neutral,True
+21349,Krillin,Human,Buu Saga,62179122,2203676209,755,Anti-Hero,False
+21350,Goku,Hybrid,Buu Saga,50194863,974530868,925,Anti-Hero,False
+21351,Krillin,Human,Buu Saga,59549853,717141902,793,Hero,False
+21352,Majin Buu,Android,Saiyan Saga,5099,126184,143,Villain,True
+21353,Android 18,Frieza Race,Saiyan Saga,13595,324738,819,Anti-Hero,True
+21354,Raditz,Saiyan,Cell Saga,3311267,127845262,646,Anti-Hero,True
+21355,Android 18,Android,Frieza Saga,181032,5931574,67,Villain,True
+21356,Android 17,Frieza Race,Frieza Saga,37557,1709341,651,Anti-Hero,True
+21357,Bardock,Saiyan,Broly Movie,307169472,1906920450,136,Hero,True
+21358,Android 17,Hybrid,Buu Saga,33989526,843596184,212,Hero,False
+21359,Trunks,Hybrid,Buu Saga,28453362,618586251,583,Villain,True
+21360,Whis,Frieza Race,Broly Movie,271259025,3993262399,264,Neutral,True
+21361,Bulma,Human,Broly Movie,514509518,17825471884,699,Neutral,False
+21362,Vegeta,Saiyan,Frieza Saga,505283,13974825,213,Anti-Hero,False
+21363,Majin Buu,Angel,Broly Movie,662839979,27638723675,882,Hero,False
+21364,Android 18,Hybrid,Broly Movie,465706260,22884279806,365,Anti-Hero,True
+21365,Vegeta,Saiyan,Cell Saga,3156021,25273046,490,Villain,False
+21366,Goku,Saiyan,Saiyan Saga,6330,265468,729,Hero,True
+21367,Broly,Hybrid,Cell Saga,167226,5132176,683,Neutral,True
+21368,Broly,Saiyan,Battle of Gods,188173842,1098715247,153,Neutral,False
+21369,Krillin,Human,Tournament of Power,835594263,21989767129,511,Villain,False
+21370,Goku,Saiyan,Broly Movie,67830593,978677803,780,Villain,False
+21371,Majin Buu,Angel,Frieza Saga,360348,16201752,387,Villain,False
+21372,Cell,Saiyan,Buu Saga,39024752,659426125,427,Hero,False
+21373,Vegeta,Hybrid,Frieza Saga,433945,6974503,901,Anti-Hero,False
+21374,Yamcha,Human,Battle of Gods,718105653,24002339806,153,Anti-Hero,True
+21375,Android 18,Angel,Battle of Gods,515281906,24455332903,830,Hero,False
+21376,Broly,Hybrid,Frieza Saga,287853,12647098,575,Villain,True
+21377,Bardock,Hybrid,Saiyan Saga,5856,124308,454,Neutral,True
+21378,Tien,Human,Frieza Saga,447402,9618525,610,Anti-Hero,False
+21379,Nappa,Saiyan,Cell Saga,3466330,169652787,119,Neutral,False
+21380,Majin Buu,Human,Buu Saga,32150027,889894965,34,Anti-Hero,True
+21381,Krillin,Human,Frieza Saga,53956,2072576,886,Anti-Hero,True
+21382,Goku,Hybrid,Frieza Saga,372730,16473573,233,Anti-Hero,False
+21383,Trunks,Hybrid,Broly Movie,525915157,21466409122,217,Hero,False
+21384,Vegeta,Saiyan,Frieza Saga,187639,9354282,975,Neutral,True
+21385,Tien,Human,Battle of Gods,523133838,22270003651,444,Neutral,False
+21386,Nappa,Saiyan,Battle of Gods,974411856,13383366563,728,Hero,True
+21387,Yamcha,Human,Buu Saga,77927465,740506358,833,Villain,True
+21388,Android 18,Namekian,Cell Saga,4378756,35876167,903,Hero,True
+21389,Broly,Hybrid,Cell Saga,4742924,195844921,29,Anti-Hero,False
+21390,Krillin,Human,Broly Movie,945312905,16593273592,262,Villain,True
+21391,Raditz,Hybrid,Cell Saga,514107,6062619,859,Hero,True
+21392,Goku,Hybrid,Frieza Saga,98851,1490946,202,Villain,True
+21393,Frieza,Frieza Race,Battle of Gods,943791006,5797723136,479,Neutral,True
+21394,Goku,Hybrid,Buu Saga,68878859,2269922471,966,Villain,True
+21395,Tien,Human,Buu Saga,8729151,9001,275,Anti-Hero,False
+21396,Raditz,Saiyan,Tournament of Power,653944792,24777583191,133,Villain,True
+21397,Tien,Human,Cell Saga,755264,34994760,741,Anti-Hero,True
+21398,Raditz,Hybrid,Tournament of Power,248345496,1910993826,128,Anti-Hero,True
+21399,Vegeta,Hybrid,Cell Saga,3706826,59908322,57,Hero,True
+21400,Trunks,Saiyan,Battle of Gods,508032306,11064013480,642,Villain,False
+21401,Whis,Human,Tournament of Power,543073748,18978692940,766,Anti-Hero,False
+21402,Majin Buu,Frieza Race,Buu Saga,53599331,2489208453,562,Hero,True
+21403,Android 18,Android,Saiyan Saga,10101,265342,623,Anti-Hero,True
+21404,Frieza,Frieza Race,Tournament of Power,372652985,11700531302,760,Villain,True
+21405,Goku,Hybrid,Tournament of Power,281755969,12144662937,44,Hero,True
+21406,Krillin,Human,Tournament of Power,761655506,33399932834,231,Hero,True
+21407,Tien,Human,Cell Saga,267978,5263031,218,Hero,False
+21408,Android 18,Namekian,Buu Saga,86136052,3278649425,872,Anti-Hero,False
+21409,Cell,Hybrid,Frieza Saga,225595,3224052,509,Villain,True
+21410,Beerus,Frieza Race,Frieza Saga,333155,14589024,314,Anti-Hero,True
+21411,Cell,Namekian,Frieza Saga,256483,1669611,664,Neutral,True
+21412,Yamcha,Human,Frieza Saga,68285,488692,303,Anti-Hero,False
+21413,Broly,Saiyan,Cell Saga,1901649,78829830,110,Neutral,False
+21414,Beerus,Saiyan,Tournament of Power,683588568,11286009416,434,Anti-Hero,False
+21415,Nappa,Hybrid,Broly Movie,765728404,10300329730,316,Villain,False
+21416,Tien,Human,Tournament of Power,993028952,33973591705,870,Anti-Hero,True
+21417,Frieza,Frieza Race,Frieza Saga,263834,7916105,297,Hero,False
+21418,Goku,Hybrid,Buu Saga,67998150,2151842848,71,Hero,True
+21419,Goten,Saiyan,Frieza Saga,366541,12735704,394,Hero,True
+21420,Cell,Human,Broly Movie,252032150,10384031235,913,Hero,False
+21421,Android 17,Angel,Saiyan Saga,17043,366033,76,Neutral,True
+21422,Bulma,Human,Cell Saga,2657951,113333078,49,Anti-Hero,True
+21423,Goten,Hybrid,Battle of Gods,433523776,21523663169,384,Villain,True
+21424,Android 17,Angel,Frieza Saga,173672,3748065,402,Hero,True
+21425,Beerus,Android,Battle of Gods,736142885,29491241530,346,Neutral,True
+21426,Bardock,Saiyan,Buu Saga,11908718,429062421,875,Villain,False
+21427,Krillin,Human,Saiyan Saga,11990,581102,881,Neutral,True
+21428,Android 18,God,Battle of Gods,438158816,10863110736,596,Anti-Hero,True
+21429,Cell,Human,Tournament of Power,392913520,15761035573,620,Villain,False
+21430,Vegeta,Hybrid,Cell Saga,2916322,9001,890,Villain,True
+21431,Krillin,Human,Tournament of Power,757389014,1443330464,296,Anti-Hero,True
+21432,Goku,Saiyan,Broly Movie,608093502,4267374039,387,Anti-Hero,True
+21433,Goten,Hybrid,Tournament of Power,136379626,6600073236,946,Hero,True
+21434,Majin Buu,Majin,Saiyan Saga,14813,531600,626,Hero,False
+21435,Frieza,Frieza Race,Battle of Gods,335291187,16340000377,330,Neutral,False
+21436,Whis,God,Battle of Gods,698502073,18968232788,948,Villain,True
+21437,Jiren,Human,Broly Movie,66006048,1886229706,230,Villain,True
+21438,Yamcha,Human,Broly Movie,302411444,7674536177,190,Villain,False
+21439,Nappa,Saiyan,Saiyan Saga,7136,310482,514,Hero,True
+21440,Beerus,Hybrid,Frieza Saga,280561,10518857,412,Neutral,True
+21441,Whis,Saiyan,Saiyan Saga,14875,646365,593,Villain,True
+21442,Krillin,Human,Battle of Gods,610606190,14428334270,438,Anti-Hero,True
+21443,Raditz,Saiyan,Cell Saga,236507,3341794,877,Neutral,False
+21444,Vegeta,Hybrid,Buu Saga,63596297,742032575,54,Hero,False
+21445,Tien,Human,Broly Movie,624581901,27239687520,617,Anti-Hero,True
+21446,Goten,Saiyan,Saiyan Saga,8500,238567,494,Anti-Hero,False
+21447,Bardock,Saiyan,Battle of Gods,235516515,1645986901,881,Neutral,True
+21448,Android 17,Frieza Race,Buu Saga,65203244,2399100958,130,Neutral,True
+21449,Majin Buu,Human,Broly Movie,628205128,26266142992,728,Neutral,True
+21450,Frieza,Frieza Race,Tournament of Power,302775596,7372906380,21,Neutral,True
+21451,Goku,Saiyan,Broly Movie,254444404,7353825113,967,Villain,False
+21452,Raditz,Saiyan,Saiyan Saga,7088,148315,18,Villain,True
+21453,Goten,Hybrid,Saiyan Saga,9600,165646,210,Villain,True
+21454,Majin Buu,God,Tournament of Power,766938728,34762713050,173,Villain,False
+21455,Cell,Saiyan,Battle of Gods,932594807,7168147441,170,Villain,False
+21456,Krillin,Human,Frieza Saga,489509,13818847,571,Anti-Hero,True
+21457,Goten,Hybrid,Buu Saga,35265333,972587896,434,Hero,False
+21458,Broly,Saiyan,Buu Saga,23727427,397901153,688,Neutral,True
+21459,Jiren,God,Battle of Gods,201209891,7577893564,795,Hero,False
+21460,Yamcha,Human,Broly Movie,268938422,10752661342,325,Hero,True
+21461,Cell,Android,Buu Saga,81293189,1817210817,504,Villain,False
+21462,Trunks,Hybrid,Tournament of Power,514083402,1652238774,236,Neutral,True
+21463,Cell,Namekian,Frieza Saga,181950,3592340,630,Neutral,False
+21464,Beerus,Angel,Buu Saga,27148542,243923343,261,Anti-Hero,True
+21465,Krillin,Human,Tournament of Power,152881489,1702164665,267,Hero,False
+21466,Whis,Angel,Cell Saga,2421064,104861089,694,Anti-Hero,False
+21467,Tien,Human,Buu Saga,76019074,3359433805,115,Neutral,False
+21468,Bardock,Hybrid,Cell Saga,3320825,47208074,409,Hero,False
+21469,Gohan,Hybrid,Buu Saga,7623070,58561962,556,Hero,True
+21470,Krillin,Human,Cell Saga,3306288,31783993,896,Anti-Hero,False
+21471,Android 17,Saiyan,Broly Movie,243748619,11513119871,361,Villain,False
+21472,Android 18,Frieza Race,Broly Movie,41254484,99192763,65,Hero,True
+21473,Android 18,God,Saiyan Saga,16195,503261,904,Neutral,True
+21474,Krillin,Human,Buu Saga,30396030,276818443,551,Villain,True
+21475,Tien,Human,Tournament of Power,471774743,21298861459,423,Anti-Hero,True
+21476,Android 18,Frieza Race,Broly Movie,133618078,2165223375,953,Hero,False
+21477,Broly,Hybrid,Tournament of Power,484787350,1910828021,958,Neutral,True
+21478,Vegeta,Hybrid,Saiyan Saga,13270,459260,888,Anti-Hero,True
+21479,Bardock,Hybrid,Tournament of Power,987445578,25405988643,254,Villain,False
+21480,Beerus,Majin,Cell Saga,2621860,127728609,76,Anti-Hero,False
+21481,Nappa,Hybrid,Saiyan Saga,1321,19191,271,Hero,True
+21482,Bulma,Human,Frieza Saga,477008,6465472,879,Villain,False
+21483,Trunks,Hybrid,Saiyan Saga,4451,122911,997,Neutral,False
+21484,Tien,Human,Saiyan Saga,6852,308307,206,Anti-Hero,False
+21485,Goten,Hybrid,Frieza Saga,492666,5810075,596,Neutral,True
+21486,Gohan,Saiyan,Tournament of Power,740454915,26184109489,354,Villain,False
+21487,Beerus,Majin,Buu Saga,81967696,1073351972,290,Hero,False
+21488,Frieza,Frieza Race,Buu Saga,45756583,739556436,257,Neutral,False
+21489,Yamcha,Human,Broly Movie,621232256,18388935519,780,Neutral,False
+21490,Whis,Human,Tournament of Power,251108687,6662221496,57,Hero,False
+21491,Raditz,Saiyan,Frieza Saga,43943,1673866,815,Villain,True
+21492,Whis,Saiyan,Buu Saga,52745636,9001,554,Neutral,False
+21493,Cell,Namekian,Broly Movie,385773206,12888547339,438,Anti-Hero,False
+21494,Android 17,Android,Battle of Gods,701728329,23647108954,523,Neutral,True
+21495,Vegeta,Saiyan,Battle of Gods,336370579,9439884062,557,Anti-Hero,True
+21496,Bulma,Human,Cell Saga,4701510,23603503,204,Anti-Hero,True
+21497,Jiren,Frieza Race,Tournament of Power,682039190,26880103131,10,Anti-Hero,False
+21498,Cell,Hybrid,Battle of Gods,246280432,8633355179,946,Hero,True
+21499,Frieza,Frieza Race,Cell Saga,2383067,95506746,86,Anti-Hero,False
+21500,Bulma,Human,Cell Saga,1451098,60308981,111,Anti-Hero,False
+21501,Yamcha,Human,Battle of Gods,249564308,4253261116,322,Hero,False
+21502,Frieza,Frieza Race,Saiyan Saga,13985,611693,825,Hero,False
+21503,Vegeta,Hybrid,Frieza Saga,274089,2019732,247,Hero,False
+21504,Majin Buu,Android,Cell Saga,3258575,114173701,614,Villain,True
+21505,Majin Buu,Majin,Cell Saga,518033,2126732,752,Neutral,False
+21506,Cell,Angel,Frieza Saga,159926,5777284,771,Neutral,False
+21507,Whis,Saiyan,Tournament of Power,211193709,3110769728,895,Neutral,True
+21508,Beerus,Angel,Saiyan Saga,14593,224243,215,Anti-Hero,True
+21509,Bulma,Human,Broly Movie,370293723,9580752751,303,Villain,False
+21510,Yamcha,Human,Cell Saga,3051070,113009845,825,Villain,True
+21511,Frieza,Frieza Race,Frieza Saga,68330,9001,226,Anti-Hero,False
+21512,Majin Buu,Android,Buu Saga,51630556,643642568,401,Villain,True
+21513,Android 17,Majin,Frieza Saga,500819,14813707,681,Neutral,False
+21514,Gohan,Saiyan,Frieza Saga,262307,12660536,108,Anti-Hero,True
+21515,Yamcha,Human,Tournament of Power,151011677,6582975503,110,Neutral,True
+21516,Jiren,Saiyan,Frieza Saga,373308,10091614,676,Neutral,False
+21517,Piccolo,Namekian,Broly Movie,492690698,7332576865,545,Villain,True
+21518,Tien,Human,Saiyan Saga,5909,279037,391,Neutral,False
+21519,Bardock,Saiyan,Saiyan Saga,3417,170673,346,Villain,True
+21520,Goku,Saiyan,Broly Movie,527979461,20130184070,900,Hero,False
+21521,Vegeta,Hybrid,Saiyan Saga,9084,258502,400,Hero,False
+21522,Beerus,Saiyan,Broly Movie,871950028,35809448909,53,Anti-Hero,True
+21523,Piccolo,Namekian,Broly Movie,403545186,16275879785,964,Hero,False
+21524,Goku,Saiyan,Buu Saga,75070941,1220144041,259,Villain,False
+21525,Piccolo,Namekian,Cell Saga,614085,24045469,376,Hero,False
+21526,Android 17,Android,Frieza Saga,246563,8973275,412,Anti-Hero,False
+21527,Bardock,Saiyan,Battle of Gods,760283463,27329263000,523,Hero,False
+21528,Vegeta,Hybrid,Saiyan Saga,3535,104395,168,Hero,False
+21529,Android 17,Human,Cell Saga,4996112,77901191,333,Anti-Hero,False
+21530,Piccolo,Namekian,Tournament of Power,965928661,33687519861,798,Villain,False
+21531,Vegeta,Hybrid,Saiyan Saga,4998,18526,420,Hero,True
+21532,Cell,Saiyan,Cell Saga,3877612,50644202,774,Villain,True
+21533,Piccolo,Namekian,Saiyan Saga,3712,158519,72,Anti-Hero,True
+21534,Frieza,Frieza Race,Cell Saga,2407898,23457177,453,Hero,True
+21535,Frieza,Frieza Race,Battle of Gods,284050575,10910221532,197,Anti-Hero,True
+21536,Broly,Hybrid,Broly Movie,179642749,4811622561,302,Anti-Hero,True
+21537,Whis,Namekian,Broly Movie,697390576,23195196603,812,Villain,False
+21538,Goten,Saiyan,Cell Saga,3314095,136550169,5,Anti-Hero,False
+21539,Tien,Human,Broly Movie,346760913,14925961296,179,Neutral,False
+21540,Bardock,Hybrid,Broly Movie,635257911,6678053849,698,Villain,False
+21541,Gohan,Hybrid,Buu Saga,22957418,162100088,396,Hero,False
+21542,Gohan,Hybrid,Frieza Saga,403281,14608005,949,Anti-Hero,True
+21543,Trunks,Saiyan,Battle of Gods,382912187,2209592492,958,Neutral,False
+21544,Frieza,Frieza Race,Frieza Saga,493008,20376098,820,Anti-Hero,False
+21545,Jiren,Hybrid,Buu Saga,35641672,1571373586,135,Anti-Hero,True
+21546,Nappa,Saiyan,Tournament of Power,758070855,12257563723,339,Hero,False
+21547,Vegeta,Saiyan,Buu Saga,45687533,1445990571,923,Villain,True
+21548,Goku,Saiyan,Cell Saga,4021748,155871868,982,Neutral,True
+21549,Android 17,Hybrid,Battle of Gods,918954255,4312276023,123,Hero,True
+21550,Beerus,Saiyan,Saiyan Saga,14873,82644,23,Villain,True
+21551,Vegeta,Hybrid,Cell Saga,2466827,91300154,15,Villain,True
+21552,Android 18,Saiyan,Buu Saga,22642549,9001,302,Hero,False
+21553,Goten,Hybrid,Tournament of Power,124039575,4759550220,142,Hero,True
+21554,Bardock,Hybrid,Tournament of Power,104331078,3213819154,54,Hero,False
+21555,Cell,Majin,Frieza Saga,222547,9496393,329,Villain,True
+21556,Nappa,Hybrid,Broly Movie,397307945,3847817400,526,Anti-Hero,False
+21557,Whis,Hybrid,Frieza Saga,245199,9934661,154,Anti-Hero,True
+21558,Bardock,Hybrid,Buu Saga,21730459,1058351954,821,Villain,True
+21559,Krillin,Human,Frieza Saga,346021,9001,657,Anti-Hero,True
+21560,Trunks,Hybrid,Tournament of Power,577537629,17464898478,915,Hero,False
+21561,Piccolo,Namekian,Tournament of Power,566271189,26168007515,886,Anti-Hero,True
+21562,Vegeta,Hybrid,Saiyan Saga,14900,163716,899,Villain,False
+21563,Nappa,Saiyan,Cell Saga,177692,1251675,402,Neutral,False
+21564,Yamcha,Human,Frieza Saga,17276,402123,580,Neutral,True
+21565,Vegeta,Hybrid,Broly Movie,537808471,11522626451,826,Anti-Hero,True
+21566,Whis,Namekian,Saiyan Saga,622,6119,800,Anti-Hero,False
+21567,Majin Buu,God,Tournament of Power,434062398,9611291599,751,Neutral,True
+21568,Cell,Saiyan,Battle of Gods,606570821,10287462198,196,Villain,True
+21569,Frieza,Frieza Race,Broly Movie,124952671,1346104770,854,Neutral,True
+21570,Trunks,Saiyan,Cell Saga,3656820,161919849,722,Anti-Hero,False
+21571,Goten,Saiyan,Saiyan Saga,2514,109864,258,Villain,True
+21572,Goku,Saiyan,Cell Saga,132484,540341,894,Anti-Hero,True
+21573,Jiren,Saiyan,Buu Saga,33355575,1661565784,376,Hero,False
+21574,Goten,Hybrid,Cell Saga,574742,9334640,695,Neutral,True
+21575,Majin Buu,Hybrid,Battle of Gods,739497892,1511620052,197,Anti-Hero,True
+21576,Vegeta,Hybrid,Buu Saga,36189954,461765257,940,Anti-Hero,False
+21577,Jiren,Frieza Race,Saiyan Saga,7422,40373,746,Villain,True
+21578,Goku,Saiyan,Frieza Saga,45276,892086,912,Anti-Hero,True
+21579,Gohan,Hybrid,Cell Saga,3557440,32539783,418,Neutral,True
+21580,Goten,Saiyan,Battle of Gods,200042799,9671164495,56,Hero,False
+21581,Tien,Human,Saiyan Saga,8483,9001,634,Hero,False
+21582,Android 18,Hybrid,Broly Movie,55427288,1193728806,900,Villain,True
+21583,Vegeta,Hybrid,Cell Saga,3368217,54000715,49,Neutral,True
+21584,Tien,Human,Battle of Gods,949675542,41785520521,338,Neutral,False
+21585,Beerus,Saiyan,Buu Saga,77594420,777031193,810,Neutral,True
+21586,Goku,Hybrid,Buu Saga,60233372,666003345,596,Anti-Hero,True
+21587,Goten,Saiyan,Buu Saga,66190299,3038760136,190,Neutral,True
+21588,Tien,Human,Saiyan Saga,12335,430027,959,Villain,False
+21589,Android 17,God,Cell Saga,979274,40776851,650,Anti-Hero,False
+21590,Jiren,Namekian,Buu Saga,41907880,2057119468,678,Hero,True
+21591,Gohan,Saiyan,Broly Movie,598817437,14777385772,403,Villain,True
+21592,Nappa,Saiyan,Saiyan Saga,11170,106006,15,Hero,False
+21593,Whis,Frieza Race,Buu Saga,74280074,326608936,730,Hero,True
+21594,Piccolo,Namekian,Frieza Saga,454833,11790488,339,Villain,False
+21595,Gohan,Saiyan,Buu Saga,84046770,3098894168,930,Villain,False
+21596,Android 18,Frieza Race,Buu Saga,12264775,588425714,65,Neutral,False
+21597,Whis,Namekian,Broly Movie,286283469,7413082468,535,Villain,False
+21598,Krillin,Human,Frieza Saga,128417,4346504,221,Villain,True
+21599,Bulma,Human,Buu Saga,6257599,189006040,79,Hero,False
+21600,Tien,Human,Tournament of Power,554903710,11686101502,567,Hero,False
+21601,Goten,Hybrid,Broly Movie,117097067,1820774524,326,Neutral,False
+21602,Android 18,Saiyan,Buu Saga,18319808,662476186,233,Anti-Hero,True
+21603,Nappa,Hybrid,Tournament of Power,664673399,13025452099,607,Neutral,True
+21604,Goten,Hybrid,Frieza Saga,479713,14169336,306,Anti-Hero,False
+21605,Goku,Hybrid,Battle of Gods,420136401,1837518232,32,Neutral,False
+21606,Vegeta,Hybrid,Tournament of Power,477369440,16159776039,902,Neutral,False
+21607,Gohan,Saiyan,Battle of Gods,639092673,25550711882,135,Villain,True
+21608,Android 17,Human,Battle of Gods,62630374,2627075161,694,Anti-Hero,False
+21609,Trunks,Hybrid,Saiyan Saga,4241,40026,394,Hero,True
+21610,Whis,Namekian,Tournament of Power,86230105,771444793,217,Villain,True
+21611,Trunks,Saiyan,Buu Saga,62674976,1373522659,244,Hero,False
+21612,Krillin,Human,Cell Saga,3428523,156450644,55,Anti-Hero,True
+21613,Krillin,Human,Broly Movie,694405829,24347190837,339,Villain,True
+21614,Goku,Hybrid,Buu Saga,20488900,564902603,927,Neutral,True
+21615,Whis,Frieza Race,Broly Movie,301144179,9851910693,405,Neutral,False
+21616,Goku,Saiyan,Saiyan Saga,2327,31404,723,Villain,True
+21617,Nappa,Saiyan,Saiyan Saga,17744,190953,729,Anti-Hero,False
+21618,Android 18,Frieza Race,Tournament of Power,288309095,13764662044,909,Villain,False
+21619,Whis,Hybrid,Cell Saga,3286191,35267772,950,Anti-Hero,True
+21620,Frieza,Frieza Race,Frieza Saga,359275,6257665,293,Hero,False
+21621,Frieza,Frieza Race,Frieza Saga,149663,5029591,979,Anti-Hero,True
+21622,Broly,Hybrid,Buu Saga,82685057,3146930886,189,Villain,True
+21623,Krillin,Human,Frieza Saga,196076,1851555,652,Villain,True
+21624,Bulma,Human,Frieza Saga,90211,486941,373,Hero,False
+21625,Vegeta,Saiyan,Cell Saga,1919639,39191975,394,Hero,True
+21626,Bulma,Human,Battle of Gods,358186306,15687450495,647,Neutral,False
+21627,Krillin,Human,Tournament of Power,814671185,37586279609,688,Neutral,False
+21628,Goku,Hybrid,Saiyan Saga,5392,49670,568,Hero,True
+21629,Bardock,Hybrid,Saiyan Saga,17114,46718,969,Anti-Hero,True
+21630,Majin Buu,God,Buu Saga,34696578,1504692378,308,Neutral,False
+21631,Bulma,Human,Frieza Saga,337025,15688011,474,Anti-Hero,True
+21632,Whis,Saiyan,Frieza Saga,387925,4517088,570,Villain,False
+21633,Whis,Majin,Battle of Gods,463236979,2592555362,653,Hero,True
+21634,Krillin,Human,Frieza Saga,162299,4878316,724,Hero,False
+21635,Android 17,God,Broly Movie,685514539,23351229379,232,Anti-Hero,False
+21636,Gohan,Hybrid,Frieza Saga,119353,194054,566,Neutral,True
+21637,Tien,Human,Buu Saga,45840116,1586505034,958,Villain,False
+21638,Goku,Saiyan,Battle of Gods,721083598,3531329848,712,Anti-Hero,False
+21639,Android 17,Human,Tournament of Power,659511600,21425163496,33,Hero,False
+21640,Whis,Frieza Race,Buu Saga,33726516,1116176544,840,Villain,False
+21641,Bulma,Human,Cell Saga,2627436,25446086,767,Hero,False
+21642,Goku,Hybrid,Cell Saga,1029645,14003505,201,Anti-Hero,False
+21643,Whis,Android,Saiyan Saga,3971,9001,777,Neutral,True
+21644,Trunks,Saiyan,Battle of Gods,115224156,4067749087,408,Villain,True
+21645,Android 17,Android,Saiyan Saga,5760,87305,795,Anti-Hero,False
+21646,Gohan,Hybrid,Tournament of Power,970838094,18412169724,527,Hero,False
+21647,Goku,Hybrid,Battle of Gods,710941475,14373301836,331,Neutral,True
+21648,Frieza,Frieza Race,Tournament of Power,661839784,10487944992,10,Neutral,True
+21649,Piccolo,Namekian,Saiyan Saga,8159,330469,969,Neutral,False
+21650,Vegeta,Saiyan,Buu Saga,86967861,1430217622,428,Anti-Hero,False
+21651,Raditz,Saiyan,Saiyan Saga,8341,81442,541,Anti-Hero,True
+21652,Nappa,Saiyan,Cell Saga,4396589,37536991,842,Anti-Hero,True
+21653,Bardock,Saiyan,Broly Movie,586457959,2245726111,341,Anti-Hero,False
+21654,Nappa,Saiyan,Tournament of Power,45358717,2190078378,296,Hero,True
+21655,Vegeta,Saiyan,Tournament of Power,285007625,4650960583,371,Villain,False
+21656,Goku,Hybrid,Broly Movie,550142578,24767768603,254,Hero,True
+21657,Raditz,Saiyan,Broly Movie,430641377,5718088848,746,Villain,True
+21658,Tien,Human,Buu Saga,34018186,1264361018,560,Neutral,False
+21659,Frieza,Frieza Race,Cell Saga,4236230,48859743,287,Villain,True
+21660,Cell,Frieza Race,Cell Saga,144119,1580760,407,Villain,True
+21661,Vegeta,Hybrid,Buu Saga,20791402,366347829,471,Hero,False
+21662,Trunks,Hybrid,Frieza Saga,502819,1983691,733,Neutral,False
+21663,Piccolo,Namekian,Battle of Gods,577984100,3516775484,451,Villain,False
+21664,Trunks,Saiyan,Battle of Gods,826382096,36882089238,487,Anti-Hero,False
+21665,Broly,Hybrid,Saiyan Saga,6373,171777,955,Anti-Hero,False
+21666,Goten,Hybrid,Cell Saga,639023,13252341,212,Anti-Hero,False
+21667,Cell,Human,Tournament of Power,888887915,8975092789,780,Neutral,False
+21668,Nappa,Hybrid,Battle of Gods,942696235,38266558568,745,Hero,False
+21669,Krillin,Human,Broly Movie,40153514,1650639535,665,Villain,False
+21670,Bulma,Human,Broly Movie,83541133,1500939830,471,Villain,True
+21671,Gohan,Saiyan,Buu Saga,41927523,1314834857,18,Hero,True
+21672,Vegeta,Hybrid,Tournament of Power,91910042,168928618,343,Hero,True
+21673,Frieza,Frieza Race,Frieza Saga,267669,4353053,905,Villain,False
+21674,Piccolo,Namekian,Saiyan Saga,12131,574430,196,Villain,True
+21675,Trunks,Hybrid,Cell Saga,643448,17976525,360,Villain,False
+21676,Krillin,Human,Buu Saga,73436515,574859789,414,Villain,False
+21677,Nappa,Saiyan,Buu Saga,56573929,2662451499,158,Villain,False
+21678,Bardock,Saiyan,Cell Saga,1332515,48404824,182,Neutral,True
+21679,Nappa,Saiyan,Frieza Saga,292055,2168920,658,Hero,False
+21680,Trunks,Saiyan,Frieza Saga,183450,7406760,637,Neutral,False
+21681,Goten,Saiyan,Buu Saga,25063706,1045580842,909,Anti-Hero,False
+21682,Krillin,Human,Frieza Saga,171506,8240244,984,Anti-Hero,False
+21683,Goku,Hybrid,Battle of Gods,341689323,5680310989,226,Anti-Hero,True
+21684,Frieza,Frieza Race,Saiyan Saga,13817,153974,711,Villain,False
+21685,Nappa,Saiyan,Buu Saga,27489175,207718454,563,Anti-Hero,True
+21686,Beerus,Angel,Saiyan Saga,14901,113733,888,Villain,True
+21687,Raditz,Hybrid,Frieza Saga,214713,5520563,304,Villain,True
+21688,Goku,Hybrid,Tournament of Power,361489181,2630776547,774,Villain,True
+21689,Raditz,Hybrid,Cell Saga,4787270,219618848,827,Villain,True
+21690,Goku,Hybrid,Frieza Saga,15459,365249,536,Villain,True
+21691,Goten,Hybrid,Broly Movie,383272998,9971580090,356,Anti-Hero,True
+21692,Android 18,Angel,Saiyan Saga,11595,98465,860,Neutral,False
+21693,Android 18,Human,Tournament of Power,430080158,3026864351,574,Villain,False
+21694,Goten,Saiyan,Buu Saga,35287137,162261693,183,Hero,False
+21695,Majin Buu,God,Cell Saga,4597404,203277616,830,Hero,False
+21696,Cell,Human,Broly Movie,668067143,31607421209,664,Hero,True
+21697,Raditz,Saiyan,Buu Saga,83513633,862044056,303,Anti-Hero,False
+21698,Bardock,Saiyan,Saiyan Saga,10920,266884,503,Anti-Hero,True
+21699,Nappa,Saiyan,Tournament of Power,88152720,516562392,426,Villain,False
+21700,Frieza,Frieza Race,Cell Saga,1132984,43174729,862,Anti-Hero,False
+21701,Tien,Human,Battle of Gods,254921812,8507932256,923,Villain,False
+21702,Android 17,Android,Battle of Gods,104309077,2424630846,747,Neutral,True
+21703,Goku,Saiyan,Frieza Saga,99224,1705996,28,Hero,True
+21704,Trunks,Hybrid,Buu Saga,77466284,479490928,953,Anti-Hero,False
+21705,Nappa,Hybrid,Battle of Gods,430578687,12997934712,122,Neutral,False
+21706,Android 17,Android,Tournament of Power,797177067,2029810803,499,Hero,False
+21707,Trunks,Hybrid,Battle of Gods,931469597,20524594609,422,Villain,False
+21708,Beerus,Saiyan,Buu Saga,83036172,1149858355,580,Hero,True
+21709,Goku,Saiyan,Frieza Saga,151801,586262,283,Anti-Hero,True
+21710,Goku,Saiyan,Saiyan Saga,9228,367772,924,Hero,True
+21711,Tien,Human,Broly Movie,711591614,33263973165,339,Anti-Hero,True
+21712,Majin Buu,Saiyan,Battle of Gods,420542718,16752242883,345,Anti-Hero,False
+21713,Trunks,Saiyan,Frieza Saga,498994,9193428,931,Hero,True
+21714,Yamcha,Human,Cell Saga,4225740,165790624,128,Anti-Hero,True
+21715,Whis,God,Buu Saga,40671933,1797452020,863,Neutral,True
+21716,Yamcha,Human,Buu Saga,58216968,1644819120,328,Neutral,False
+21717,Bulma,Human,Saiyan Saga,12096,309370,408,Hero,True
+21718,Vegeta,Saiyan,Frieza Saga,132003,5923197,157,Anti-Hero,True
+21719,Bulma,Human,Broly Movie,294759146,1669798560,350,Neutral,False
+21720,Beerus,Angel,Buu Saga,81054053,3602049359,426,Neutral,True
+21721,Whis,Namekian,Tournament of Power,410494345,14528901859,72,Hero,True
+21722,Yamcha,Human,Saiyan Saga,3663,61306,538,Hero,True
+21723,Krillin,Human,Broly Movie,41243028,599047465,869,Villain,True
+21724,Android 18,Saiyan,Tournament of Power,45758165,1686448959,433,Hero,False
+21725,Goku,Hybrid,Cell Saga,1430135,60664344,26,Villain,False
+21726,Vegeta,Hybrid,Saiyan Saga,1918,30876,865,Anti-Hero,True
+21727,Nappa,Hybrid,Buu Saga,22468698,287855344,798,Hero,False
+21728,Yamcha,Human,Tournament of Power,48224192,1072955573,596,Anti-Hero,True
+21729,Whis,Human,Cell Saga,553385,15428564,865,Villain,True
+21730,Piccolo,Namekian,Saiyan Saga,4640,201445,21,Hero,False
+21731,Android 18,Saiyan,Broly Movie,179692312,1414139593,200,Villain,False
+21732,Android 18,Android,Buu Saga,24900493,931145226,715,Anti-Hero,True
+21733,Android 17,Angel,Cell Saga,4905759,212904893,130,Anti-Hero,True
+21734,Raditz,Hybrid,Battle of Gods,300268144,8466713520,875,Hero,False
+21735,Goten,Saiyan,Battle of Gods,152159886,3629120294,525,Anti-Hero,False
+21736,Frieza,Frieza Race,Frieza Saga,338700,4056657,16,Anti-Hero,True
+21737,Cell,Angel,Broly Movie,749007608,31394712155,408,Anti-Hero,True
+21738,Krillin,Human,Battle of Gods,713777160,14905812092,642,Neutral,True
+21739,Piccolo,Namekian,Broly Movie,35408495,1302038288,37,Hero,True
+21740,Nappa,Hybrid,Broly Movie,49010336,1627430678,346,Anti-Hero,True
+21741,Yamcha,Human,Saiyan Saga,15517,531889,738,Villain,False
+21742,Android 18,Namekian,Frieza Saga,427714,11154722,325,Hero,False
+21743,Trunks,Hybrid,Cell Saga,1949096,48770271,468,Villain,False
+21744,Majin Buu,Frieza Race,Cell Saga,1452015,25446241,428,Hero,False
+21745,Beerus,Majin,Cell Saga,3073572,35521646,855,Villain,False
+21746,Tien,Human,Tournament of Power,739203927,8170339515,425,Anti-Hero,True
+21747,Tien,Human,Tournament of Power,209607884,3368807713,889,Neutral,True
+21748,Goten,Hybrid,Tournament of Power,264662699,8268361895,572,Villain,False
+21749,Jiren,God,Saiyan Saga,9178,180488,941,Neutral,False
+21750,Raditz,Hybrid,Frieza Saga,390219,9669283,105,Anti-Hero,True
+21751,Piccolo,Namekian,Buu Saga,65860783,1184783626,352,Hero,True
+21752,Android 17,Android,Buu Saga,50048758,1502468631,996,Neutral,False
+21753,Raditz,Saiyan,Tournament of Power,77926438,424142731,644,Villain,False
+21754,Bulma,Human,Frieza Saga,304442,11450563,858,Villain,False
+21755,Broly,Hybrid,Cell Saga,4346274,9001,669,Hero,True
+21756,Gohan,Saiyan,Battle of Gods,794339310,4649243627,789,Anti-Hero,False
+21757,Raditz,Hybrid,Tournament of Power,335351741,12731435191,493,Hero,True
+21758,Goku,Saiyan,Tournament of Power,586425132,3402864785,816,Neutral,False
+21759,Piccolo,Namekian,Battle of Gods,37383102,1426879896,70,Hero,False
+21760,Goten,Saiyan,Saiyan Saga,16701,133091,37,Hero,True
+21761,Raditz,Saiyan,Tournament of Power,100017771,1148991527,123,Hero,True
+21762,Goten,Hybrid,Cell Saga,4407540,183039179,125,Villain,True
+21763,Gohan,Saiyan,Cell Saga,1667453,48134304,421,Villain,True
+21764,Broly,Hybrid,Buu Saga,50772806,155680567,477,Anti-Hero,False
+21765,Bardock,Saiyan,Buu Saga,22279455,931827090,319,Hero,True
+21766,Whis,Saiyan,Buu Saga,16721736,506395447,937,Hero,True
+21767,Vegeta,Hybrid,Cell Saga,1247003,56783405,758,Neutral,True
+21768,Raditz,Saiyan,Saiyan Saga,2158,31071,204,Anti-Hero,False
+21769,Goten,Hybrid,Cell Saga,2379894,98151396,281,Anti-Hero,True
+21770,Whis,God,Tournament of Power,229053372,5757671173,280,Villain,True
+21771,Jiren,Saiyan,Saiyan Saga,13762,678315,367,Anti-Hero,True
+21772,Beerus,Android,Cell Saga,3781084,7903270,771,Villain,False
+21773,Vegeta,Saiyan,Frieza Saga,223292,1991738,52,Anti-Hero,True
+21774,Goten,Saiyan,Cell Saga,2335497,60415574,13,Villain,True
+21775,Android 18,Hybrid,Frieza Saga,135319,6616077,646,Villain,True
+21776,Frieza,Frieza Race,Broly Movie,739249534,15347769736,894,Neutral,False
+21777,Android 18,Angel,Cell Saga,3130384,30793691,529,Villain,True
+21778,Tien,Human,Tournament of Power,887821058,25136008483,908,Hero,True
+21779,Piccolo,Namekian,Tournament of Power,905207658,34480199338,81,Anti-Hero,False
+21780,Beerus,Android,Tournament of Power,438652539,13517626770,421,Villain,True
+21781,Whis,Hybrid,Tournament of Power,389107736,11380960783,711,Hero,True
+21782,Android 18,Human,Cell Saga,325590,7838343,297,Neutral,False
+21783,Android 18,Namekian,Broly Movie,283196950,10086376755,141,Anti-Hero,True
+21784,Android 17,Majin,Frieza Saga,444310,11460865,276,Hero,True
+21785,Raditz,Hybrid,Battle of Gods,742927467,11960397021,30,Villain,False
+21786,Frieza,Frieza Race,Frieza Saga,93292,2946350,198,Anti-Hero,True
+21787,Nappa,Hybrid,Battle of Gods,325077714,14053308897,168,Anti-Hero,True
+21788,Majin Buu,Saiyan,Frieza Saga,85521,2089339,818,Villain,True
+21789,Beerus,Namekian,Tournament of Power,333881347,9525296226,670,Hero,False
+21790,Broly,Saiyan,Buu Saga,45157126,1866023373,51,Neutral,False
+21791,Krillin,Human,Broly Movie,833962012,36315856833,273,Anti-Hero,True
+21792,Broly,Saiyan,Frieza Saga,10852,469285,699,Neutral,True
+21793,Whis,Android,Broly Movie,404486608,18033885268,66,Villain,False
+21794,Goku,Saiyan,Battle of Gods,863080909,11045947950,265,Neutral,True
+21795,Jiren,Frieza Race,Cell Saga,2388593,11307901,24,Villain,True
+21796,Goten,Saiyan,Broly Movie,752087414,19711857953,270,Anti-Hero,False
+21797,Android 18,Namekian,Broly Movie,264806100,9539219476,824,Anti-Hero,True
+21798,Trunks,Hybrid,Saiyan Saga,5266,53558,296,Villain,False
+21799,Frieza,Frieza Race,Battle of Gods,689894447,18528144532,783,Hero,False
+21800,Piccolo,Namekian,Battle of Gods,868954563,28084477610,767,Anti-Hero,True
+21801,Android 17,Android,Saiyan Saga,2510,18905,966,Villain,True
+21802,Beerus,Angel,Cell Saga,1486511,51192722,763,Neutral,True
+21803,Whis,God,Saiyan Saga,16513,602538,45,Neutral,False
+21804,Trunks,Saiyan,Cell Saga,1103942,49486620,959,Hero,True
+21805,Broly,Hybrid,Battle of Gods,780737974,35657029094,903,Villain,True
+21806,Piccolo,Namekian,Frieza Saga,333414,15893744,899,Anti-Hero,True
+21807,Raditz,Saiyan,Saiyan Saga,323,14644,464,Anti-Hero,False
+21808,Trunks,Saiyan,Buu Saga,54417792,1070544975,758,Anti-Hero,True
+21809,Whis,Human,Tournament of Power,403192749,2241090558,832,Villain,False
+21810,Tien,Human,Buu Saga,34204171,114434856,399,Hero,False
+21811,Android 17,Majin,Saiyan Saga,174,6971,418,Villain,True
+21812,Krillin,Human,Frieza Saga,226966,8687094,879,Neutral,True
+21813,Yamcha,Human,Buu Saga,66538155,2547876423,218,Anti-Hero,True
+21814,Raditz,Saiyan,Broly Movie,618783635,13526173556,446,Hero,True
+21815,Android 17,Majin,Saiyan Saga,14830,104549,969,Neutral,False
+21816,Whis,Majin,Broly Movie,510642292,12655925056,938,Villain,True
+21817,Frieza,Frieza Race,Frieza Saga,221641,5734725,485,Hero,True
+21818,Whis,Hybrid,Tournament of Power,382312636,12690230462,468,Hero,True
+21819,Bardock,Saiyan,Broly Movie,482071721,22021050758,148,Neutral,True
+21820,Broly,Hybrid,Broly Movie,892452546,28256771775,50,Hero,False
+21821,Goten,Hybrid,Cell Saga,4944303,232159408,150,Anti-Hero,True
+21822,Goten,Hybrid,Tournament of Power,514117389,20048887662,60,Anti-Hero,True
+21823,Yamcha,Human,Battle of Gods,615192179,20353959950,512,Villain,False
+21824,Android 18,Saiyan,Frieza Saga,461730,16362815,959,Hero,True
+21825,Bardock,Hybrid,Buu Saga,82002059,1314594126,375,Villain,False
+21826,Tien,Human,Frieza Saga,168623,1878118,119,Hero,False
+21827,Raditz,Saiyan,Tournament of Power,534809171,2242466870,921,Anti-Hero,False
+21828,Majin Buu,Angel,Tournament of Power,633207357,1911446493,96,Neutral,False
+21829,Gohan,Hybrid,Cell Saga,4537250,197902534,936,Neutral,False
+21830,Yamcha,Human,Buu Saga,38334877,1271029057,197,Neutral,False
+21831,Android 17,Frieza Race,Cell Saga,1832606,7734140,881,Hero,False
+21832,Nappa,Hybrid,Cell Saga,1081872,27717546,843,Anti-Hero,False
+21833,Piccolo,Namekian,Battle of Gods,826161222,7489869320,906,Neutral,True
+21834,Majin Buu,Frieza Race,Tournament of Power,468016049,18808570954,340,Neutral,True
+21835,Whis,Android,Buu Saga,51963042,2094166226,911,Neutral,False
+21836,Yamcha,Human,Saiyan Saga,3405,86074,492,Neutral,True
+21837,Raditz,Saiyan,Buu Saga,76680292,250273777,357,Neutral,True
+21838,Android 17,Namekian,Broly Movie,620550534,21764324467,502,Anti-Hero,False
+21839,Cell,Hybrid,Broly Movie,330432775,12556866327,960,Anti-Hero,False
+21840,Android 17,Android,Battle of Gods,511182358,9752750946,631,Hero,False
+21841,Bulma,Human,Broly Movie,324975624,11857637491,629,Neutral,True
+21842,Yamcha,Human,Tournament of Power,334127908,13460063705,338,Hero,True
+21843,Cell,Hybrid,Buu Saga,37855223,748156794,854,Hero,False
+21844,Android 17,Majin,Tournament of Power,594704647,28816626673,335,Neutral,False
+21845,Goku,Hybrid,Broly Movie,996031298,22436166192,351,Anti-Hero,True
+21846,Majin Buu,Android,Cell Saga,3417230,156464325,473,Villain,False
+21847,Gohan,Saiyan,Buu Saga,71411283,2112871203,197,Villain,False
+21848,Bulma,Human,Cell Saga,1759693,25227380,947,Hero,True
+21849,Broly,Saiyan,Saiyan Saga,2456,86263,431,Hero,True
+21850,Android 17,Android,Cell Saga,4195442,172132676,616,Villain,True
+21851,Whis,Saiyan,Broly Movie,582211719,15194706968,934,Anti-Hero,True
+21852,Tien,Human,Saiyan Saga,5507,37283,226,Villain,False
+21853,Bulma,Human,Tournament of Power,685703447,5431668644,167,Villain,True
+21854,Vegeta,Hybrid,Battle of Gods,809931199,33285008947,521,Hero,True
+21855,Yamcha,Human,Frieza Saga,9650,445541,851,Villain,False
+21856,Beerus,Majin,Frieza Saga,42750,814732,827,Anti-Hero,False
+21857,Broly,Saiyan,Tournament of Power,861524114,3349665304,38,Hero,True
+21858,Goku,Hybrid,Battle of Gods,595592097,20996546895,152,Anti-Hero,True
+21859,Cell,Frieza Race,Broly Movie,49703580,2437168350,306,Anti-Hero,True
+21860,Nappa,Hybrid,Cell Saga,681032,33055238,937,Hero,True
+21861,Bardock,Saiyan,Buu Saga,71108149,273629080,935,Neutral,True
+21862,Bulma,Human,Buu Saga,81921140,661222169,483,Villain,True
+21863,Yamcha,Human,Saiyan Saga,9795,277269,812,Anti-Hero,False
+21864,Beerus,Android,Cell Saga,772088,38527385,132,Villain,True
+21865,Goten,Saiyan,Cell Saga,1048842,35827324,193,Anti-Hero,False
+21866,Goten,Hybrid,Battle of Gods,520301765,4057214845,772,Anti-Hero,False
+21867,Tien,Human,Buu Saga,12747541,410728719,415,Hero,True
+21868,Gohan,Saiyan,Frieza Saga,27027,1224273,263,Anti-Hero,True
+21869,Goten,Hybrid,Frieza Saga,519391,13262824,143,Anti-Hero,True
+21870,Tien,Human,Frieza Saga,173644,3870832,783,Neutral,False
+21871,Whis,Majin,Cell Saga,2897233,30982657,694,Hero,True
+21872,Broly,Saiyan,Buu Saga,70529842,2766639404,204,Hero,True
+21873,Bulma,Human,Cell Saga,259663,2572615,849,Hero,True
+21874,Krillin,Human,Buu Saga,20338355,217266840,175,Hero,True
+21875,Bulma,Human,Saiyan Saga,14290,680008,198,Neutral,True
+21876,Tien,Human,Battle of Gods,48938974,1786714926,78,Neutral,False
+21877,Tien,Human,Battle of Gods,106352663,2011241926,237,Neutral,True
+21878,Whis,Saiyan,Cell Saga,2115370,86071064,228,Anti-Hero,False
+21879,Bardock,Hybrid,Saiyan Saga,2544,34957,891,Villain,True
+21880,Beerus,Human,Cell Saga,4549549,173527706,496,Anti-Hero,True
+21881,Goten,Hybrid,Battle of Gods,688503849,10621208870,447,Hero,True
+21882,Bardock,Saiyan,Frieza Saga,73162,2008144,878,Anti-Hero,False
+21883,Goten,Saiyan,Saiyan Saga,11196,154272,156,Hero,True
+21884,Gohan,Hybrid,Tournament of Power,788864325,14892297664,721,Hero,True
+21885,Jiren,Saiyan,Buu Saga,45494008,257431236,896,Villain,False
+21886,Goten,Saiyan,Tournament of Power,637275184,16827365917,40,Hero,True
+21887,Trunks,Hybrid,Broly Movie,832094105,8901928087,248,Anti-Hero,True
+21888,Beerus,Namekian,Battle of Gods,338643320,5525666333,233,Anti-Hero,True
+21889,Goku,Saiyan,Tournament of Power,408278309,7290240301,542,Neutral,True
+21890,Whis,Human,Broly Movie,941262683,38647558886,95,Neutral,False
+21891,Goten,Saiyan,Saiyan Saga,17278,134910,85,Villain,True
+21892,Yamcha,Human,Broly Movie,934210501,5830778690,31,Neutral,False
+21893,Android 18,Namekian,Cell Saga,1358781,9771583,848,Neutral,True
+21894,Nappa,Saiyan,Battle of Gods,379675946,1746695164,476,Anti-Hero,False
+21895,Cell,Namekian,Battle of Gods,168742322,2249598787,928,Neutral,False
+21896,Android 18,Frieza Race,Saiyan Saga,14554,180057,341,Anti-Hero,True
+21897,Vegeta,Saiyan,Battle of Gods,876189200,13333335303,728,Hero,True
+21898,Majin Buu,Angel,Tournament of Power,692600950,34557683548,876,Villain,False
+21899,Goten,Hybrid,Cell Saga,1955061,13210304,878,Neutral,True
+21900,Majin Buu,Android,Battle of Gods,767920628,6006837594,470,Hero,True
+21901,Goten,Saiyan,Battle of Gods,365240078,9224629055,880,Neutral,False
+21902,Android 18,Namekian,Tournament of Power,620176607,8654972581,780,Hero,False
+21903,Vegeta,Hybrid,Tournament of Power,907181817,15748053363,983,Anti-Hero,False
+21904,Beerus,Frieza Race,Saiyan Saga,9035,30317,814,Anti-Hero,False
+21905,Tien,Human,Cell Saga,4276893,9001,730,Neutral,False
+21906,Bulma,Human,Saiyan Saga,9421,30372,351,Anti-Hero,False
+21907,Piccolo,Namekian,Broly Movie,110444809,2068248881,604,Neutral,True
+21908,Raditz,Saiyan,Saiyan Saga,3318,60866,828,Neutral,False
+21909,Goku,Saiyan,Tournament of Power,496930069,22650927789,105,Hero,True
+21910,Vegeta,Saiyan,Frieza Saga,173395,5781927,875,Villain,True
+21911,Trunks,Saiyan,Battle of Gods,561984254,10557773280,568,Villain,True
+21912,Yamcha,Human,Battle of Gods,282171966,9552008990,943,Villain,False
+21913,Nappa,Saiyan,Broly Movie,30687215,620509630,667,Anti-Hero,False
+21914,Majin Buu,Android,Frieza Saga,319959,5975102,321,Villain,True
+21915,Bardock,Saiyan,Buu Saga,48586960,1225088653,607,Hero,True
+21916,Krillin,Human,Broly Movie,531656801,24197156340,174,Anti-Hero,True
+21917,Nappa,Hybrid,Tournament of Power,826170825,39175724477,986,Anti-Hero,True
+21918,Android 17,God,Saiyan Saga,6579,119115,658,Neutral,True
+21919,Bardock,Hybrid,Tournament of Power,507783754,14007773013,37,Villain,True
+21920,Vegeta,Saiyan,Buu Saga,39394743,1309042666,711,Hero,False
+21921,Trunks,Saiyan,Tournament of Power,863725736,13703989858,74,Villain,False
+21922,Krillin,Human,Battle of Gods,657174131,4494455126,414,Anti-Hero,True
+21923,Yamcha,Human,Battle of Gods,817988570,3059732028,577,Neutral,False
+21924,Goten,Saiyan,Buu Saga,40782086,1525497006,90,Anti-Hero,True
+21925,Raditz,Saiyan,Battle of Gods,163530995,679502789,479,Neutral,True
+21926,Whis,God,Frieza Saga,57835,1069863,213,Villain,True
+21927,Goku,Hybrid,Battle of Gods,476759107,19458384793,275,Hero,True
+21928,Whis,Angel,Broly Movie,923380028,44109934681,552,Anti-Hero,True
+21929,Beerus,Frieza Race,Tournament of Power,27907342,276984539,453,Anti-Hero,True
+21930,Yamcha,Human,Battle of Gods,512627311,4444121071,791,Villain,False
+21931,Nappa,Saiyan,Buu Saga,42355742,468057539,876,Anti-Hero,False
+21932,Goku,Hybrid,Broly Movie,768600571,1855160689,348,Neutral,True
+21933,Bulma,Human,Broly Movie,377959050,16942573212,736,Villain,True
+21934,Cell,God,Broly Movie,468656347,10660374158,781,Hero,False
+21935,Vegeta,Hybrid,Frieza Saga,311951,9001,457,Neutral,False
+21936,Goku,Saiyan,Frieza Saga,521333,12042878,729,Neutral,True
+21937,Tien,Human,Frieza Saga,72134,2234485,417,Neutral,True
+21938,Tien,Human,Buu Saga,83162251,3414689624,486,Neutral,True
+21939,Broly,Saiyan,Saiyan Saga,7814,177763,783,Anti-Hero,False
+21940,Goku,Hybrid,Saiyan Saga,16780,178218,574,Anti-Hero,False
+21941,Gohan,Hybrid,Battle of Gods,499838594,8643319070,405,Neutral,False
+21942,Frieza,Frieza Race,Cell Saga,3239315,161718790,614,Anti-Hero,True
+21943,Jiren,Hybrid,Broly Movie,187683605,7259707737,848,Anti-Hero,False
+21944,Bardock,Hybrid,Tournament of Power,527271999,3111130188,570,Villain,False
+21945,Gohan,Hybrid,Cell Saga,157102,4116119,915,Villain,False
+21946,Frieza,Frieza Race,Battle of Gods,509962302,6638299078,206,Anti-Hero,True
+21947,Raditz,Saiyan,Battle of Gods,651479300,30715263669,881,Hero,True
+21948,Android 17,Hybrid,Broly Movie,920200657,30797936899,546,Hero,True
+21949,Raditz,Hybrid,Buu Saga,65405612,3158232134,62,Hero,False
+21950,Gohan,Saiyan,Buu Saga,54662422,2119621905,798,Hero,True
+21951,Gohan,Hybrid,Buu Saga,44649853,410124704,615,Anti-Hero,False
+21952,Trunks,Saiyan,Buu Saga,15910030,79322905,183,Neutral,True
+21953,Android 18,Android,Cell Saga,1737028,9167984,665,Villain,False
+21954,Bulma,Human,Saiyan Saga,5275,52465,97,Hero,True
+21955,Cell,Saiyan,Buu Saga,58136429,1466122664,37,Hero,False
+21956,Tien,Human,Buu Saga,37643622,266389002,859,Anti-Hero,False
+21957,Vegeta,Saiyan,Battle of Gods,513975328,14249546779,23,Villain,False
+21958,Bulma,Human,Battle of Gods,554637455,13503927491,94,Neutral,False
+21959,Beerus,Saiyan,Tournament of Power,584984286,22722397368,705,Hero,True
+21960,Nappa,Hybrid,Cell Saga,1208707,31894665,421,Hero,False
+21961,Jiren,Human,Battle of Gods,967218533,3775937768,277,Neutral,False
+21962,Krillin,Human,Frieza Saga,129795,4680247,524,Villain,False
+21963,Bardock,Saiyan,Buu Saga,81253101,2390871435,765,Anti-Hero,False
+21964,Android 18,Frieza Race,Broly Movie,738567321,8198404052,824,Anti-Hero,True
+21965,Nappa,Hybrid,Frieza Saga,135876,3098379,101,Hero,False
+21966,Nappa,Saiyan,Tournament of Power,855046482,33088494078,618,Anti-Hero,True
+21967,Broly,Hybrid,Buu Saga,28112928,80230429,986,Anti-Hero,False
+21968,Beerus,Angel,Frieza Saga,22422,41149,756,Hero,True
+21969,Bardock,Hybrid,Battle of Gods,31659952,377003312,463,Anti-Hero,False
+21970,Broly,Hybrid,Battle of Gods,397105703,15948178337,477,Hero,False
+21971,Frieza,Frieza Race,Battle of Gods,762145268,10858538313,604,Hero,True
+21972,Goku,Hybrid,Battle of Gods,145398748,5968135548,372,Anti-Hero,False
+21973,Broly,Saiyan,Tournament of Power,575443339,16807928696,249,Neutral,True
+21974,Android 18,Namekian,Tournament of Power,955239633,32747327362,728,Neutral,True
+21975,Majin Buu,Saiyan,Battle of Gods,874552582,29582598867,326,Neutral,True
+21976,Frieza,Frieza Race,Buu Saga,11929911,123907893,587,Anti-Hero,True
+21977,Bulma,Human,Frieza Saga,9213,262332,177,Hero,True
+21978,Tien,Human,Tournament of Power,267821277,6109928492,391,Anti-Hero,False
+21979,Cell,Frieza Race,Tournament of Power,802947511,4768929696,612,Neutral,False
+21980,Majin Buu,God,Buu Saga,6483971,27577487,566,Anti-Hero,False
+21981,Cell,Frieza Race,Battle of Gods,604069857,9001,46,Hero,False
+21982,Android 17,Android,Battle of Gods,60937918,2159042213,505,Villain,False
+21983,Frieza,Frieza Race,Frieza Saga,413192,16512437,283,Villain,True
+21984,Jiren,God,Battle of Gods,351708111,12685304065,364,Neutral,False
+21985,Yamcha,Human,Tournament of Power,899780804,42859903775,237,Villain,False
+21986,Gohan,Saiyan,Buu Saga,29859335,1086899746,338,Villain,False
+21987,Cell,Hybrid,Frieza Saga,457887,20835881,359,Anti-Hero,True
+21988,Beerus,Human,Cell Saga,2102303,90464164,533,Anti-Hero,False
+21989,Trunks,Saiyan,Frieza Saga,491967,4265893,910,Neutral,False
+21990,Tien,Human,Cell Saga,4356715,147270835,777,Anti-Hero,False
+21991,Bulma,Human,Frieza Saga,75593,2449251,98,Neutral,False
+21992,Broly,Hybrid,Broly Movie,103076370,2571861634,534,Villain,True
+21993,Goten,Saiyan,Saiyan Saga,13448,68043,249,Neutral,False
+21994,Bulma,Human,Buu Saga,29094279,534779980,152,Villain,True
+21995,Trunks,Hybrid,Frieza Saga,56126,1839814,246,Neutral,True
+21996,Nappa,Saiyan,Buu Saga,56057933,92644313,277,Anti-Hero,False
+21997,Whis,Namekian,Cell Saga,3835434,36725802,806,Hero,False
+21998,Cell,Human,Cell Saga,2545347,10391011,923,Hero,False
+21999,Whis,Human,Tournament of Power,537541099,1965072173,135,Anti-Hero,False
+22000,Whis,Saiyan,Tournament of Power,720555120,35394338468,452,Neutral,False
